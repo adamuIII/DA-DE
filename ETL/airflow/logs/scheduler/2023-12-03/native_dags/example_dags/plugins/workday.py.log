@@ -1,0 +1,430 @@
+[2023-12-03T23:07:37.923+0000] {processor.py:157} INFO - Started process (PID=3736) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:07:37.924+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:07:37.925+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:07:37.924+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:07:38.261+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:07:38.271+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.352 seconds
+[2023-12-03T23:08:33.739+0000] {processor.py:157} INFO - Started process (PID=3790) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:08:33.740+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:08:33.741+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:08:33.741+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:08:34.057+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:08:34.068+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.333 seconds
+[2023-12-03T23:09:11.142+0000] {processor.py:157} INFO - Started process (PID=3832) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:09:11.143+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:09:11.144+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:09:11.144+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:09:11.462+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:09:11.473+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.335 seconds
+[2023-12-03T23:09:56.170+0000] {processor.py:157} INFO - Started process (PID=3881) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:09:56.171+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:09:56.172+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:09:56.172+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:09:56.476+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:09:56.486+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.320 seconds
+[2023-12-03T23:10:28.433+0000] {processor.py:157} INFO - Started process (PID=3916) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:10:28.434+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:10:28.434+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:10:28.434+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:10:28.745+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:10:28.756+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.327 seconds
+[2023-12-03T23:11:14.799+0000] {processor.py:157} INFO - Started process (PID=3966) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:11:14.800+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:11:14.801+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:11:14.800+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:11:15.116+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:11:15.127+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.332 seconds
+[2023-12-03T23:11:47.872+0000] {processor.py:157} INFO - Started process (PID=4003) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:11:47.873+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:11:47.874+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:11:47.873+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:11:48.200+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:11:48.212+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.344 seconds
+[2023-12-03T23:12:31.892+0000] {processor.py:157} INFO - Started process (PID=4052) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:12:31.894+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:12:31.895+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:12:31.894+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:12:32.204+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:12:32.215+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.326 seconds
+[2023-12-03T23:13:19.576+0000] {processor.py:157} INFO - Started process (PID=4102) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:13:19.578+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:13:19.579+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:13:19.578+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:13:19.890+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:13:19.901+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.329 seconds
+[2023-12-03T23:14:03.749+0000] {processor.py:157} INFO - Started process (PID=4152) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:14:03.751+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:14:03.752+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:14:03.751+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:14:04.072+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:14:04.083+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.337 seconds
+[2023-12-03T23:14:36.402+0000] {processor.py:157} INFO - Started process (PID=4188) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:14:36.403+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:14:36.404+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:14:36.403+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:14:36.711+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:14:36.721+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.323 seconds
+[2023-12-03T23:15:09.173+0000] {processor.py:157} INFO - Started process (PID=4223) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:15:09.174+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:15:09.175+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:15:09.174+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:15:09.486+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:15:09.497+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.327 seconds
+[2023-12-03T23:15:42.002+0000] {processor.py:157} INFO - Started process (PID=4260) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:15:42.004+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:15:42.004+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:15:42.004+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:15:42.320+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:15:42.331+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.332 seconds
+[2023-12-03T23:16:13.692+0000] {processor.py:157} INFO - Started process (PID=4295) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:16:13.693+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:16:13.694+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:16:13.694+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:16:14.009+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:16:14.020+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.331 seconds
+[2023-12-03T23:16:44.425+0000] {processor.py:157} INFO - Started process (PID=4330) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:16:44.426+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:16:44.427+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:16:44.427+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:16:44.734+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:16:44.745+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.323 seconds
+[2023-12-03T23:17:16.301+0000] {processor.py:157} INFO - Started process (PID=4368) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:17:16.303+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:17:16.304+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:17:16.303+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:17:16.617+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:17:16.627+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.330 seconds
+[2023-12-03T23:18:01.048+0000] {processor.py:157} INFO - Started process (PID=4417) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:18:01.049+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:18:01.050+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:18:01.049+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:18:01.361+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:18:01.372+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.328 seconds
+[2023-12-03T23:18:31.889+0000] {processor.py:157} INFO - Started process (PID=4451) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:18:31.890+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:18:31.890+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:18:31.890+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:18:32.207+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:18:32.218+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.333 seconds
+[2023-12-03T23:19:14.795+0000] {processor.py:157} INFO - Started process (PID=4500) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:19:14.797+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:19:14.798+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:19:14.797+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:19:15.106+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:19:15.117+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.325 seconds
+[2023-12-03T23:19:59.081+0000] {processor.py:157} INFO - Started process (PID=4549) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:19:59.083+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:19:59.084+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:19:59.083+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:19:59.400+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:19:59.412+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.334 seconds
+[2023-12-03T23:20:41.124+0000] {processor.py:157} INFO - Started process (PID=4597) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:20:41.126+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:20:41.127+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:20:41.126+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:20:41.451+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:20:41.462+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.341 seconds
+[2023-12-03T23:21:12.243+0000] {processor.py:157} INFO - Started process (PID=4631) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:21:12.244+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:21:12.245+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:21:12.244+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:21:12.549+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:21:12.560+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.321 seconds
+[2023-12-03T23:21:47.381+0000] {processor.py:157} INFO - Started process (PID=4668) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:21:47.382+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:21:47.383+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:21:47.383+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:21:47.695+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:21:47.706+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.328 seconds
+[2023-12-03T23:22:19.831+0000] {processor.py:157} INFO - Started process (PID=4705) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:22:19.833+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:22:19.833+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:22:19.833+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:22:20.144+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:22:20.154+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.327 seconds
+[2023-12-03T23:22:51.807+0000] {processor.py:157} INFO - Started process (PID=4741) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:22:51.808+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:22:51.809+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:22:51.809+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:22:52.118+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:22:52.129+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.326 seconds
+[2023-12-03T23:23:36.683+0000] {processor.py:157} INFO - Started process (PID=4790) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:23:36.685+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:23:36.686+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:23:36.685+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:23:36.999+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:23:37.009+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.330 seconds
+[2023-12-03T23:24:08.962+0000] {processor.py:157} INFO - Started process (PID=4824) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:24:08.962+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:24:08.963+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:24:08.963+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:24:09.282+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:24:09.293+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.335 seconds
+[2023-12-03T23:24:39.866+0000] {processor.py:157} INFO - Started process (PID=4859) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:24:39.868+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:24:39.869+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:24:39.868+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:24:40.185+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:24:40.196+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.333 seconds
+[2023-12-03T23:25:13.480+0000] {processor.py:157} INFO - Started process (PID=4895) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:25:13.481+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:25:13.482+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:25:13.482+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:25:13.789+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:25:13.800+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.323 seconds
+[2023-12-03T23:25:46.479+0000] {processor.py:157} INFO - Started process (PID=4932) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:25:46.480+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:25:46.481+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:25:46.481+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:25:46.789+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:25:46.800+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.325 seconds
+[2023-12-03T23:26:32.623+0000] {processor.py:157} INFO - Started process (PID=4982) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:26:32.624+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:26:32.625+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:26:32.625+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:26:32.942+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:26:32.953+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.334 seconds
+[2023-12-03T23:27:16.323+0000] {processor.py:157} INFO - Started process (PID=5031) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:27:16.325+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:27:16.326+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:27:16.325+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:27:16.817+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:27:16.825+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.505 seconds
+[2023-12-03T23:27:58.835+0000] {processor.py:157} INFO - Started process (PID=5078) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:27:58.837+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:27:58.838+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:27:58.837+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:27:59.157+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:27:59.169+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.337 seconds
+[2023-12-03T23:28:45.177+0000] {processor.py:157} INFO - Started process (PID=5128) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:28:45.178+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:28:45.179+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:28:45.178+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:28:45.678+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:28:45.685+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.513 seconds
+[2023-12-03T23:29:17.254+0000] {processor.py:157} INFO - Started process (PID=5163) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:29:17.256+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:29:17.257+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:29:17.256+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:29:17.731+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:29:17.739+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.488 seconds
+[2023-12-03T23:29:49.225+0000] {processor.py:157} INFO - Started process (PID=5200) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:29:49.227+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:29:49.227+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:29:49.227+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:29:49.534+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:29:49.545+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.323 seconds
+[2023-12-03T23:30:20.907+0000] {processor.py:157} INFO - Started process (PID=5235) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:30:20.909+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:30:20.910+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:30:20.909+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:30:21.404+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:30:21.413+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.510 seconds
+[2023-12-03T23:31:06.141+0000] {processor.py:157} INFO - Started process (PID=5284) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:31:06.142+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:31:06.143+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:31:06.142+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:31:06.654+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:31:06.662+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.525 seconds
+[2023-12-03T23:31:38.141+0000] {processor.py:157} INFO - Started process (PID=5319) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:31:38.143+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:31:38.144+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:31:38.143+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:31:38.668+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:31:38.676+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.538 seconds
+[2023-12-03T23:32:09.078+0000] {processor.py:157} INFO - Started process (PID=5354) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:32:09.080+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:32:09.081+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:32:09.080+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:32:09.581+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:32:09.589+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.514 seconds
+[2023-12-03T23:32:53.590+0000] {processor.py:157} INFO - Started process (PID=5403) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:32:53.591+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:32:53.592+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:32:53.592+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:32:54.083+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:32:54.090+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.504 seconds
+[2023-12-03T23:33:39.275+0000] {processor.py:157} INFO - Started process (PID=5452) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:33:39.277+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:33:39.278+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:33:39.277+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:33:39.748+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:33:39.755+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.483 seconds
+[2023-12-03T23:34:11.115+0000] {processor.py:157} INFO - Started process (PID=5487) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:34:11.116+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:34:11.117+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:34:11.117+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:34:11.602+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:34:11.610+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.498 seconds
+[2023-12-03T23:34:43.197+0000] {processor.py:157} INFO - Started process (PID=5522) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:34:43.199+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:34:43.200+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:34:43.199+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:34:43.694+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:34:43.702+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.508 seconds
+[2023-12-03T23:35:16.905+0000] {processor.py:157} INFO - Started process (PID=5558) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:35:16.906+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:35:16.907+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:35:16.907+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:35:17.403+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:35:17.411+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.509 seconds
+[2023-12-03T23:35:49.181+0000] {processor.py:157} INFO - Started process (PID=5594) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:35:49.182+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:35:49.183+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:35:49.183+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:35:49.675+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:35:49.683+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.506 seconds
+[2023-12-03T23:36:22.887+0000] {processor.py:157} INFO - Started process (PID=5630) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:36:22.888+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:36:22.889+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:36:22.888+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:36:23.379+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:36:23.387+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.504 seconds
+[2023-12-03T23:36:57.253+0000] {processor.py:157} INFO - Started process (PID=5668) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:36:57.255+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:36:57.256+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:36:57.256+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:36:57.741+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:36:57.748+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.499 seconds
+[2023-12-03T23:37:29.819+0000] {processor.py:157} INFO - Started process (PID=5703) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:37:29.820+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:37:29.821+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:37:29.821+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:37:30.301+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:37:30.308+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.493 seconds
+[2023-12-03T23:38:14.245+0000] {processor.py:157} INFO - Started process (PID=5752) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:38:14.246+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:38:14.247+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:38:14.247+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:38:14.745+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:38:14.753+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.512 seconds
+[2023-12-03T23:38:46.765+0000] {processor.py:157} INFO - Started process (PID=5788) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:38:46.765+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:38:46.766+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:38:46.766+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:38:47.248+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:38:47.256+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.495 seconds
+[2023-12-03T23:39:33.120+0000] {processor.py:157} INFO - Started process (PID=5838) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:39:33.121+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:39:33.122+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:39:33.122+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:39:33.591+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:39:33.599+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.483 seconds
+[2023-12-03T23:40:19.489+0000] {processor.py:157} INFO - Started process (PID=5888) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:40:19.491+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:40:19.492+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:40:19.491+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:40:19.998+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:40:20.006+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.520 seconds
+[2023-12-03T23:40:52.611+0000] {processor.py:157} INFO - Started process (PID=5924) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:40:52.612+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:40:52.613+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:40:52.613+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:40:53.101+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:40:53.109+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.502 seconds
+[2023-12-03T23:41:26.625+0000] {processor.py:157} INFO - Started process (PID=5961) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:41:26.627+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:41:26.628+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:41:26.627+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:41:27.118+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:41:27.126+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.505 seconds
+[2023-12-03T23:42:10.834+0000] {processor.py:157} INFO - Started process (PID=6010) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:42:10.836+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:42:10.836+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:42:10.836+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:42:11.311+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:42:11.318+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.488 seconds
+[2023-12-03T23:42:42.853+0000] {processor.py:157} INFO - Started process (PID=6046) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:42:42.853+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:42:42.854+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:42:42.854+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:42:43.338+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:42:43.345+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.496 seconds
+[2023-12-03T23:43:28.247+0000] {processor.py:157} INFO - Started process (PID=6095) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:43:28.249+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:43:28.250+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:43:28.249+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:43:28.717+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:43:28.725+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.481 seconds
+[2023-12-03T23:44:01.482+0000] {processor.py:157} INFO - Started process (PID=6343) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:44:01.483+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:44:01.484+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:44:01.484+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:44:01.975+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:44:01.982+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.504 seconds
+[2023-12-03T23:44:44.484+0000] {processor.py:157} INFO - Started process (PID=6590) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:44:44.486+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:44:44.487+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:44:44.486+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:44:44.956+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:44:44.964+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.483 seconds
+[2023-12-03T23:45:28.397+0000] {processor.py:157} INFO - Started process (PID=6638) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:45:28.398+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:45:28.399+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:45:28.399+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:45:28.876+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:45:28.884+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.491 seconds
+[2023-12-03T23:45:59.301+0000] {processor.py:157} INFO - Started process (PID=6673) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:45:59.302+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:45:59.302+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:45:59.302+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:45:59.794+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:45:59.802+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.505 seconds
+[2023-12-03T23:46:43.720+0000] {processor.py:157} INFO - Started process (PID=6723) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:46:43.721+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:46:43.722+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:46:43.722+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:46:44.208+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:46:44.215+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.499 seconds
+[2023-12-03T23:47:15.399+0000] {processor.py:157} INFO - Started process (PID=6762) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:47:15.400+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:47:15.401+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:47:15.401+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:47:15.869+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:47:15.877+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.482 seconds
+[2023-12-03T23:47:47.785+0000] {processor.py:157} INFO - Started process (PID=6814) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:47:47.786+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:47:47.787+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:47:47.787+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:47:48.290+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:47:48.297+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.516 seconds
+[2023-12-03T23:48:19.884+0000] {processor.py:157} INFO - Started process (PID=6865) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:48:19.886+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:48:19.887+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:48:19.886+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:48:20.391+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:48:20.398+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.518 seconds
+[2023-12-03T23:48:53.139+0000] {processor.py:157} INFO - Started process (PID=6902) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:48:53.141+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:48:53.142+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:48:53.141+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:48:53.631+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:48:53.639+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.504 seconds
+[2023-12-03T23:49:27.513+0000] {processor.py:157} INFO - Started process (PID=6939) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:49:27.514+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:49:27.515+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:49:27.514+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:49:27.997+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:49:28.004+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.495 seconds
+[2023-12-03T23:50:00.608+0000] {processor.py:157} INFO - Started process (PID=6976) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:50:00.610+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:50:00.611+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:50:00.610+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:50:01.102+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:50:01.110+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.505 seconds
+[2023-12-03T23:50:31.547+0000] {processor.py:157} INFO - Started process (PID=7010) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:50:31.548+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:50:31.549+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:50:31.548+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:50:32.026+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:50:32.033+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.490 seconds
+[2023-12-03T23:51:03.387+0000] {processor.py:157} INFO - Started process (PID=7046) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:51:03.388+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:51:03.389+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:51:03.389+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:51:03.869+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:51:03.876+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.493 seconds
+[2023-12-03T23:51:34.084+0000] {processor.py:157} INFO - Started process (PID=7081) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:51:34.085+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:51:34.086+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:51:34.086+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:51:34.574+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:51:34.581+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.500 seconds
+[2023-12-03T23:52:07.104+0000] {processor.py:157} INFO - Started process (PID=7116) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:52:07.106+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:52:07.107+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:52:07.106+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:52:07.602+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:52:07.610+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.509 seconds
+[2023-12-03T23:52:42.051+0000] {processor.py:157} INFO - Started process (PID=7154) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:52:42.053+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:52:42.054+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:52:42.053+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:52:42.537+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:52:42.545+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.497 seconds
+[2023-12-03T23:53:14.092+0000] {processor.py:157} INFO - Started process (PID=7188) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:53:14.093+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:53:14.094+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:53:14.094+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:53:14.590+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:53:14.597+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.509 seconds
+[2023-12-03T23:53:47.178+0000] {processor.py:157} INFO - Started process (PID=7226) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:53:47.179+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:53:47.180+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:53:47.180+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:53:47.676+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:53:47.684+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.510 seconds
+[2023-12-03T23:54:18.670+0000] {processor.py:157} INFO - Started process (PID=7260) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:54:18.672+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:54:18.673+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:54:18.672+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:54:19.150+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:54:19.158+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.491 seconds
+[2023-12-03T23:54:49.831+0000] {processor.py:157} INFO - Started process (PID=7295) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:54:49.832+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:54:49.833+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:54:49.832+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:54:50.326+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:54:50.334+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.507 seconds
+[2023-12-03T23:55:21.784+0000] {processor.py:157} INFO - Started process (PID=7331) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:55:21.785+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:55:21.786+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:55:21.786+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:55:22.274+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:55:22.282+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.503 seconds
+[2023-12-03T23:55:52.575+0000] {processor.py:157} INFO - Started process (PID=7365) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:55:52.576+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:55:52.577+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:55:52.576+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:55:53.055+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:55:53.062+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.491 seconds
+[2023-12-03T23:56:25.560+0000] {processor.py:157} INFO - Started process (PID=7400) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:56:25.562+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:56:25.563+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:56:25.562+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:56:26.050+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:56:26.058+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.501 seconds
+[2023-12-03T23:56:59.358+0000] {processor.py:157} INFO - Started process (PID=7438) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:56:59.360+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:56:59.361+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:56:59.360+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:56:59.863+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:56:59.871+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.517 seconds
+[2023-12-03T23:57:30.297+0000] {processor.py:157} INFO - Started process (PID=7472) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:57:30.298+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:57:30.299+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:57:30.299+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:57:30.779+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:57:30.786+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.493 seconds
+[2023-12-03T23:58:11.971+0000] {processor.py:157} INFO - Started process (PID=7520) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:58:11.973+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:58:11.974+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:58:11.973+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:58:12.482+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:58:12.490+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.522 seconds
+[2023-12-03T23:58:43.698+0000] {processor.py:157} INFO - Started process (PID=7556) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:58:43.699+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:58:43.700+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:58:43.700+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:58:44.177+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:58:44.185+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.490 seconds
+[2023-12-03T23:59:15.779+0000] {processor.py:157} INFO - Started process (PID=7592) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:59:15.780+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03T23:59:15.781+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:59:15.781+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:59:16.261+0000] {processor.py:841} WARNING - No viable dags retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03T23:59:16.269+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.493 seconds

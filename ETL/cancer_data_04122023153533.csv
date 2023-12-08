@@ -1,0 +1,1001 @@
+week_ending_date,demographic,vaccination_coverage_status,pregnancy_status_at_vaccination,estimate,denominator,race_order,figure_id,preg_vac_order
+2021-01-09T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0,103890,1,1,2
+2021-01-16T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.1,104250,1,1,2
+2021-01-23T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.2,104326,1,1,2
+2021-01-30T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.3,104623,1,1,2
+2021-02-06T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.5,104946,1,1,2
+2021-02-13T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.7,104927,1,1,2
+2021-02-20T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.9,105005,1,1,2
+2021-02-27T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,1,105186,1,1,2
+2021-03-06T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,1.2,105374,1,1,2
+2021-03-13T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,1.3,105426,1,1,2
+2021-03-20T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,1.4,105416,1,1,2
+2021-03-27T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,1.6,105411,1,1,2
+2021-04-03T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,1.9,105268,1,1,2
+2021-04-10T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,2.2,105282,1,1,2
+2021-04-17T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,2.5,105334,1,1,2
+2021-04-24T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,2.7,105124,1,1,2
+2021-05-01T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,3,105018,1,1,2
+2021-05-08T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,3.4,104992,1,1,2
+2021-05-15T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,3.7,104992,1,1,2
+2021-05-22T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,3.9,105044,1,1,2
+2021-05-29T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4,104914,1,1,2
+2021-06-05T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.1,104718,1,1,2
+2021-06-12T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.2,104721,1,1,2
+2021-06-19T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.3,104629,1,1,2
+2021-06-26T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.3,104633,1,1,2
+2021-07-03T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.3,104400,1,1,2
+2021-07-10T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.3,104178,1,1,2
+2021-07-17T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.3,104033,1,1,2
+2021-07-24T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.3,103905,1,1,2
+2021-07-31T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.2,103746,1,1,2
+2021-08-07T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.2,103612,1,1,2
+2021-08-14T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.3,103349,1,1,2
+2021-08-21T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.3,103173,1,1,2
+2021-08-28T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.4,102762,1,1,2
+2021-09-04T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.5,102509,1,1,2
+2021-09-11T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.6,102196,1,1,2
+2021-09-18T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.6,102038,1,1,2
+2021-09-25T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.8,101757,1,1,2
+2021-10-02T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.8,101559,1,1,2
+2021-10-09T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.8,101430,1,1,2
+2021-10-16T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.8,101314,1,1,2
+2021-10-23T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.8,101246,1,1,2
+2021-10-30T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.7,101207,1,1,2
+2021-11-06T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.6,101361,1,1,2
+2021-11-13T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.5,101487,1,1,2
+2021-11-20T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.4,101537,1,1,2
+2021-11-27T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.3,101778,1,1,2
+2021-12-04T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.2,102108,1,1,2
+2021-12-11T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,4.1,101925,1,1,2
+2021-12-18T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,3.9,102046,1,1,2
+2021-12-25T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,3.8,101941,1,1,2
+2022-01-01T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,3.6,102144,1,1,2
+2022-01-08T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,3.3,102176,1,1,2
+2022-01-15T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,3.2,102140,1,1,2
+2022-01-22T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,3,102076,1,1,2
+2022-01-29T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,2.7,102185,1,1,2
+2022-02-05T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,2.5,102404,1,1,2
+2022-02-12T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,2.3,102318,1,1,2
+2021-12-25T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,68.3,101941,1,2,NULL
+2022-01-01T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,68.7,102144,1,2,NULL
+2022-01-08T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,69,102176,1,2,NULL
+2022-01-15T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,69.4,102140,1,2,NULL
+2022-01-22T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,69.7,102076,1,2,NULL
+2022-01-29T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,70.1,102185,1,2,NULL
+2022-02-05T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,70.4,102404,1,2,NULL
+2022-02-12T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,70.7,102318,1,2,NULL
+2022-02-19T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,70.8,102158,1,2,NULL
+2021-09-04T00:00:00.000,"Black, NH",Fully Vaccinated,Any,30.9,7541,3,2,NULL
+2021-09-11T00:00:00.000,"Black, NH",Fully Vaccinated,Any,33.2,7503,3,2,NULL
+2021-09-18T00:00:00.000,"Black, NH",Fully Vaccinated,Any,34.9,7472,3,2,NULL
+2021-09-25T00:00:00.000,"Black, NH",Fully Vaccinated,Any,37.2,7455,3,2,NULL
+2021-10-02T00:00:00.000,"Black, NH",Fully Vaccinated,Any,38.8,7455,3,2,NULL
+2021-10-09T00:00:00.000,"Black, NH",Fully Vaccinated,Any,40.5,7452,3,2,NULL
+2021-10-16T00:00:00.000,"Black, NH",Fully Vaccinated,Any,41.7,7462,3,2,NULL
+2021-10-23T00:00:00.000,"Black, NH",Fully Vaccinated,Any,43.2,7467,3,2,NULL
+2021-10-30T00:00:00.000,"Black, NH",Fully Vaccinated,Any,44.7,7468,3,2,NULL
+2021-11-06T00:00:00.000,"Black, NH",Fully Vaccinated,Any,46,7532,3,2,NULL
+2022-02-26T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71,102250,1,2,NULL
+2022-03-05T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.1,102305,1,2,NULL
+2022-03-12T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.2,102234,1,2,NULL
+2022-03-19T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.4,102132,1,2,NULL
+2022-03-26T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.4,102044,1,2,NULL
+2022-04-02T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.5,101916,1,2,NULL
+2022-04-09T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.5,101836,1,2,NULL
+2022-04-16T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.6,101844,1,2,NULL
+2022-04-23T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.6,101838,1,2,NULL
+2022-04-30T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.7,101818,1,2,NULL
+2022-05-07T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.7,101806,1,2,NULL
+2022-05-14T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.7,101657,1,2,NULL
+2022-05-21T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.7,101596,1,2,NULL
+2022-05-28T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.7,101453,1,2,NULL
+2022-06-04T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.8,101248,1,2,NULL
+2022-06-11T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.8,101227,1,2,NULL
+2022-06-18T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.7,101178,1,2,NULL
+2022-06-25T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.7,101270,1,2,NULL
+2022-07-02T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.7,101364,1,2,NULL
+2022-07-09T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.7,101381,1,2,NULL
+2022-07-16T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.7,101607,1,2,NULL
+2022-07-23T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.7,101548,1,2,NULL
+2022-07-30T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.7,101475,1,2,NULL
+2022-08-06T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.6,101515,1,2,NULL
+2022-08-13T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.6,101408,1,2,NULL
+2022-08-20T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.5,101419,1,2,NULL
+2022-08-27T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.5,101347,1,2,NULL
+2022-09-03T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.5,101149,1,2,NULL
+2022-09-10T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.5,100842,1,2,NULL
+2022-09-17T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.4,100832,1,2,NULL
+2022-09-24T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.5,100885,1,2,NULL
+2022-10-01T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.4,100903,1,2,NULL
+2022-10-08T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.4,101037,1,2,NULL
+2022-10-15T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.5,101436,1,2,NULL
+2022-10-22T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.5,101932,1,2,NULL
+2022-10-29T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.5,102400,1,2,NULL
+2022-11-05T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.6,102759,1,2,NULL
+2022-11-12T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.6,102937,1,2,NULL
+2022-11-19T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.5,103142,1,2,NULL
+2022-11-26T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.5,102794,1,2,NULL
+2022-12-03T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.5,102932,1,2,NULL
+2022-12-10T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.5,102461,1,2,NULL
+2022-12-17T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.4,102445,1,2,NULL
+2022-12-24T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.4,102294,1,2,NULL
+2022-12-31T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.4,102051,1,2,NULL
+2023-01-07T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.4,102268,1,2,NULL
+2023-01-14T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.4,102234,1,2,NULL
+2023-01-21T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.4,102047,1,2,NULL
+2023-01-28T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.4,101871,1,2,NULL
+2023-02-04T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.4,101644,1,2,NULL
+2023-02-11T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.4,101282,1,2,NULL
+2023-02-18T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.4,100858,1,2,NULL
+2023-02-25T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.5,100257,1,2,NULL
+2023-03-04T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.5,99665,1,2,NULL
+2023-03-11T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.5,98855,1,2,NULL
+2023-03-18T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.5,97960,1,2,NULL
+2023-03-25T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.6,96831,1,2,NULL
+2023-04-01T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.6,95338,1,2,NULL
+2023-04-08T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.6,93718,1,2,NULL
+2023-04-15T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.6,91606,1,2,NULL
+2021-11-13T00:00:00.000,"Black, NH",Fully Vaccinated,Any,47.2,7531,3,2,NULL
+2021-11-20T00:00:00.000,"Black, NH",Fully Vaccinated,Any,48,7518,3,2,NULL
+2021-11-27T00:00:00.000,"Black, NH",Fully Vaccinated,Any,49,7558,3,2,NULL
+2021-12-04T00:00:00.000,"Black, NH",Fully Vaccinated,Any,49.9,7603,3,2,NULL
+2021-12-11T00:00:00.000,"Black, NH",Fully Vaccinated,Any,50.4,7565,3,2,NULL
+2021-12-18T00:00:00.000,"Black, NH",Fully Vaccinated,Any,51.2,7519,3,2,NULL
+2021-12-25T00:00:00.000,"Black, NH",Fully Vaccinated,Any,51.7,7475,3,2,NULL
+2022-01-01T00:00:00.000,"Black, NH",Fully Vaccinated,Any,52.5,7476,3,2,NULL
+2022-01-08T00:00:00.000,"Black, NH",Fully Vaccinated,Any,53.2,7508,3,2,NULL
+2022-01-15T00:00:00.000,"Black, NH",Fully Vaccinated,Any,53.8,7508,3,2,NULL
+2022-01-22T00:00:00.000,"Black, NH",Fully Vaccinated,Any,54.3,7453,3,2,NULL
+2022-01-29T00:00:00.000,"Black, NH",Fully Vaccinated,Any,54.8,7472,3,2,NULL
+2022-02-05T00:00:00.000,"Black, NH",Fully Vaccinated,Any,55.4,7478,3,2,NULL
+2022-02-12T00:00:00.000,"Black, NH",Fully Vaccinated,Any,56,7479,3,2,NULL
+2022-02-19T00:00:00.000,"Black, NH",Fully Vaccinated,Any,56.2,7483,3,2,NULL
+2022-02-26T00:00:00.000,"Black, NH",Fully Vaccinated,Any,56.8,7502,3,2,NULL
+2022-03-05T00:00:00.000,"Black, NH",Fully Vaccinated,Any,57,7492,3,2,NULL
+2022-03-12T00:00:00.000,"Black, NH",Fully Vaccinated,Any,57.2,7501,3,2,NULL
+2022-03-19T00:00:00.000,"Black, NH",Fully Vaccinated,Any,57.6,7496,3,2,NULL
+2022-03-26T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.1,7514,3,2,NULL
+2022-04-02T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.4,7472,3,2,NULL
+2022-04-09T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.6,7434,3,2,NULL
+2022-04-16T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.7,7423,3,2,NULL
+2022-04-23T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.6,7432,3,2,NULL
+2022-04-30T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.6,7454,3,2,NULL
+2022-05-07T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.6,7486,3,2,NULL
+2022-05-14T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.6,7478,3,2,NULL
+2022-05-21T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.7,7474,3,2,NULL
+2022-05-28T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.9,7481,3,2,NULL
+2022-06-04T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.9,7472,3,2,NULL
+2022-06-11T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.8,7483,3,2,NULL
+2022-06-18T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.6,7477,3,2,NULL
+2022-06-25T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.6,7479,3,2,NULL
+2022-07-02T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.5,7464,3,2,NULL
+2022-07-09T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.5,7467,3,2,NULL
+2022-07-16T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.5,7511,3,2,NULL
+2022-07-23T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.3,7471,3,2,NULL
+2022-07-30T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.6,7452,3,2,NULL
+2022-08-06T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.4,7432,3,2,NULL
+2022-08-13T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.4,7392,3,2,NULL
+2022-08-20T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.2,7401,3,2,NULL
+2022-08-27T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.1,7398,3,2,NULL
+2022-09-03T00:00:00.000,"Black, NH",Fully Vaccinated,Any,57.9,7390,3,2,NULL
+2022-09-10T00:00:00.000,"Black, NH",Fully Vaccinated,Any,57.8,7407,3,2,NULL
+2022-09-17T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58,7410,3,2,NULL
+2022-09-24T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58,7425,3,2,NULL
+2022-10-01T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58,7444,3,2,NULL
+2022-10-08T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.1,7467,3,2,NULL
+2022-10-15T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.2,7527,3,2,NULL
+2022-10-22T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.2,7544,3,2,NULL
+2022-10-29T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.5,7561,3,2,NULL
+2022-11-05T00:00:00.000,"Black, NH",Fully Vaccinated,Any,59,7584,3,2,NULL
+2022-11-12T00:00:00.000,"Black, NH",Fully Vaccinated,Any,59,7633,3,2,NULL
+2022-11-19T00:00:00.000,"Black, NH",Fully Vaccinated,Any,59.3,7643,3,2,NULL
+2022-11-26T00:00:00.000,"Black, NH",Fully Vaccinated,Any,59.3,7601,3,2,NULL
+2022-12-03T00:00:00.000,"Black, NH",Fully Vaccinated,Any,59.1,7616,3,2,NULL
+2022-12-10T00:00:00.000,"Black, NH",Fully Vaccinated,Any,59.3,7573,3,2,NULL
+2022-12-17T00:00:00.000,"Black, NH",Fully Vaccinated,Any,59,7588,3,2,NULL
+2022-12-24T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.9,7561,3,2,NULL
+2022-12-31T00:00:00.000,"Black, NH",Fully Vaccinated,Any,59,7503,3,2,NULL
+2023-01-07T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.9,7533,3,2,NULL
+2023-01-14T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.8,7531,3,2,NULL
+2023-01-21T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.7,7510,3,2,NULL
+2023-01-28T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.6,7501,3,2,NULL
+2023-04-08T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.8,6750,3,2,NULL
+2023-04-15T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.8,6573,3,2,NULL
+2023-04-22T00:00:00.000,"Black, NH",Fully Vaccinated,Any,59,6385,3,2,NULL
+2023-04-29T00:00:00.000,"Black, NH",Fully Vaccinated,Any,59.1,6179,3,2,NULL
+2023-05-06T00:00:00.000,"Black, NH",Fully Vaccinated,Any,59.2,5932,3,2,NULL
+2023-05-13T00:00:00.000,"Black, NH",Fully Vaccinated,Any,59.2,5682,3,2,NULL
+2023-05-20T00:00:00.000,"Black, NH",Fully Vaccinated,Any,59.3,5439,3,2,NULL
+2023-05-27T00:00:00.000,"Black, NH",Fully Vaccinated,Any,59.2,5187,3,2,NULL
+2023-06-03T00:00:00.000,"Black, NH",Fully Vaccinated,Any,59.2,4935,3,2,NULL
+2020-12-19T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,0,34864,4,2,NULL
+2020-12-26T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,0,35095,4,2,NULL
+2021-01-02T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,0,35320,4,2,NULL
+2021-01-09T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,0.1,35486,4,2,NULL
+2021-01-16T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,0.3,35628,4,2,NULL
+2021-01-23T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,0.6,35658,4,2,NULL
+2021-01-30T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,1,35813,4,2,NULL
+2021-02-06T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,1.6,35965,4,2,NULL
+2021-02-13T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,2.5,36030,4,2,NULL
+2021-02-20T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,3.3,36108,4,2,NULL
+2021-02-27T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,3.9,36162,4,2,NULL
+2021-03-06T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,4.5,36291,4,2,NULL
+2021-03-13T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,5.2,36372,4,2,NULL
+2021-03-20T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,6.5,36464,4,2,NULL
+2021-03-27T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,8.1,36513,4,2,NULL
+2021-04-03T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,9.9,36542,4,2,NULL
+2021-04-10T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,12.1,36691,4,2,NULL
+2021-04-17T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,14.5,36804,4,2,NULL
+2021-04-24T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,17.2,36830,4,2,NULL
+2021-05-01T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,19.7,36830,4,2,NULL
+2021-05-08T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,22.1,36846,4,2,NULL
+2021-05-15T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,24.5,36877,4,2,NULL
+2021-05-22T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,26.6,36893,4,2,NULL
+2021-05-29T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,28.4,36919,4,2,NULL
+2021-06-05T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,30,36864,4,2,NULL
+2021-06-12T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,31.6,36939,4,2,NULL
+2021-06-19T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,33,37028,4,2,NULL
+2021-06-26T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,34.3,37001,4,2,NULL
+2021-07-03T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,35.4,36890,4,2,NULL
+2021-07-10T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,36.6,36880,4,2,NULL
+2021-07-17T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,37.6,36853,4,2,NULL
+2021-07-24T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,38.8,36820,4,2,NULL
+2021-07-31T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,39.7,36835,4,2,NULL
+2021-08-07T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,40.9,36787,4,2,NULL
+2021-08-14T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,42.2,36692,4,2,NULL
+2021-08-21T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,43.6,36630,4,2,NULL
+2021-08-28T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,45.2,36495,4,2,NULL
+2021-09-04T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,46.9,36355,4,2,NULL
+2021-09-11T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,48.9,36272,4,2,NULL
+2021-09-18T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,51.3,36171,4,2,NULL
+2021-09-25T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,53.4,36083,4,2,NULL
+2021-10-02T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,55.2,36007,4,2,NULL
+2021-10-09T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,56.6,35948,4,2,NULL
+2021-10-16T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,57.9,35901,4,2,NULL
+2021-10-23T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,59.2,35958,4,2,NULL
+2021-10-30T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,60.3,35982,4,2,NULL
+2021-11-06T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,61.3,36117,4,2,NULL
+2021-11-13T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,62,36198,4,2,NULL
+2021-11-20T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,62.7,36313,4,2,NULL
+2021-11-27T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,63.2,36427,4,2,NULL
+2021-12-04T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,63.9,36615,4,2,NULL
+2021-12-11T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,64.5,36592,4,2,NULL
+2021-12-18T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,65,36693,4,2,NULL
+2021-12-25T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,65.6,36658,4,2,NULL
+2022-01-01T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,66,36753,4,2,NULL
+2022-01-08T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,66.4,36790,4,2,NULL
+2022-01-15T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,66.9,36740,4,2,NULL
+2022-01-22T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,67.4,36745,4,2,NULL
+2022-01-29T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,67.9,36755,4,2,NULL
+2022-02-05T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,68.3,36819,4,2,NULL
+2022-02-12T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,68.8,36751,4,2,NULL
+2022-02-19T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,69,36763,4,2,NULL
+2022-02-26T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,69.2,36860,4,2,NULL
+2022-03-05T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,69.4,36974,4,2,NULL
+2022-03-12T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,69.6,37055,4,2,NULL
+2022-03-19T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,69.8,36964,4,2,NULL
+2022-03-26T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70,36954,4,2,NULL
+2022-04-02T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.1,36949,4,2,NULL
+2022-04-09T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.2,36981,4,2,NULL
+2022-04-16T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.3,37009,4,2,NULL
+2022-04-23T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.4,37073,4,2,NULL
+2022-04-30T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.5,37071,4,2,NULL
+2022-05-07T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.6,37101,4,2,NULL
+2022-05-14T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.7,37036,4,2,NULL
+2022-05-21T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.7,37004,4,2,NULL
+2022-05-28T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.9,36934,4,2,NULL
+2022-06-04T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.9,36937,4,2,NULL
+2022-06-11T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71,36998,4,2,NULL
+2022-06-18T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71,36948,4,2,NULL
+2022-06-25T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71,36978,4,2,NULL
+2022-07-02T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71,36978,4,2,NULL
+2022-07-09T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.9,36966,4,2,NULL
+2022-07-16T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.9,36989,4,2,NULL
+2022-07-23T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.9,37043,4,2,NULL
+2022-07-30T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.9,36939,4,2,NULL
+2022-08-06T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.7,36924,4,2,NULL
+2022-08-13T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.6,36897,4,2,NULL
+2022-08-20T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.6,36824,4,2,NULL
+2022-08-27T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.7,36754,4,2,NULL
+2022-09-03T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.7,36626,4,2,NULL
+2022-09-10T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.8,36425,4,2,NULL
+2022-09-17T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.8,36337,4,2,NULL
+2022-09-24T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.8,36279,4,2,NULL
+2022-10-01T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.8,36176,4,2,NULL
+2022-10-08T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.8,36216,4,2,NULL
+2022-10-15T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.9,36225,4,2,NULL
+2022-10-22T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71.2,36283,4,2,NULL
+2022-10-29T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71.1,36304,4,2,NULL
+2022-11-05T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71.1,36342,4,2,NULL
+2022-11-12T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71.1,36388,4,2,NULL
+2022-11-19T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.9,36456,4,2,NULL
+2022-11-26T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.9,36364,4,2,NULL
+2022-12-03T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.9,36390,4,2,NULL
+2022-12-10T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71,36221,4,2,NULL
+2022-12-17T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.9,36253,4,2,NULL
+2022-12-24T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.9,36285,4,2,NULL
+2022-12-31T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.9,36296,4,2,NULL
+2023-01-07T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.9,36389,4,2,NULL
+2023-01-14T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.8,36356,4,2,NULL
+2023-01-21T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.8,36236,4,2,NULL
+2023-01-28T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.9,36195,4,2,NULL
+2023-02-04T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.9,36068,4,2,NULL
+2023-04-22T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.7,89003,1,2,NULL
+2023-04-29T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.7,86174,1,2,NULL
+2023-05-06T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.6,83188,1,2,NULL
+2023-05-13T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.6,79925,1,2,NULL
+2023-05-20T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.6,76756,1,2,NULL
+2023-05-27T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.6,73590,1,2,NULL
+2023-06-03T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Any,71.6,70671,1,2,NULL
+2021-01-02T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,0,15669,2,2,NULL
+2021-01-09T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,0.5,15698,2,2,NULL
+2021-01-16T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,1.5,15757,2,2,NULL
+2021-01-23T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,2.4,15820,2,2,NULL
+2021-01-30T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,3.7,15825,2,2,NULL
+2021-02-06T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,5.4,15863,2,2,NULL
+2021-02-13T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,7.3,15842,2,2,NULL
+2021-02-20T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,8.6,15849,2,2,NULL
+2021-02-27T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,9.5,15930,2,2,NULL
+2021-03-06T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,10.6,15983,2,2,NULL
+2021-03-13T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,12,15992,2,2,NULL
+2021-03-20T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,13.9,16043,2,2,NULL
+2021-03-27T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,16.3,16091,2,2,NULL
+2021-04-03T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,18.8,16082,2,2,NULL
+2021-04-10T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,22.7,16043,2,2,NULL
+2021-04-17T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,27,16027,2,2,NULL
+2021-04-24T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,32,15993,2,2,NULL
+2021-05-01T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,37.1,15965,2,2,NULL
+2021-05-08T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,42.1,15975,2,2,NULL
+2021-05-15T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,46.3,16010,2,2,NULL
+2021-05-22T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,50.4,16055,2,2,NULL
+2021-05-29T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,53.5,16026,2,2,NULL
+2021-06-05T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,56.2,16005,2,2,NULL
+2021-06-12T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,59,16016,2,2,NULL
+2021-06-19T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,61.2,15973,2,2,NULL
+2021-06-26T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,63,15996,2,2,NULL
+2021-07-03T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,64.7,15988,2,2,NULL
+2021-07-10T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,66.4,15969,2,2,NULL
+2021-07-17T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,67.8,15954,2,2,NULL
+2021-07-24T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,69.2,15955,2,2,NULL
+2021-07-31T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,70.5,15977,2,2,NULL
+2021-08-07T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,71.9,16023,2,2,NULL
+2021-08-14T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,73.4,15997,2,2,NULL
+2021-08-21T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,74.8,16005,2,2,NULL
+2021-08-28T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,76.2,15919,2,2,NULL
+2021-09-04T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,77.4,15926,2,2,NULL
+2021-09-11T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,79.2,15896,2,2,NULL
+2021-09-18T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,80.9,15913,2,2,NULL
+2021-09-25T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,82.3,15891,2,2,NULL
+2023-02-04T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.6,7463,3,2,NULL
+2023-02-11T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.5,7408,3,2,NULL
+2023-02-18T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.4,7362,3,2,NULL
+2023-02-25T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.4,7308,3,2,NULL
+2023-03-04T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.7,7263,3,2,NULL
+2023-03-11T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.4,7219,3,2,NULL
+2023-03-18T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.6,7136,3,2,NULL
+2023-03-25T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.9,7025,3,2,NULL
+2023-04-01T00:00:00.000,"Black, NH",Fully Vaccinated,Any,58.9,6879,3,2,NULL
+2023-02-11T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.9,35916,4,2,NULL
+2023-02-18T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,70.9,35815,4,2,NULL
+2023-02-25T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71,35610,4,2,NULL
+2023-03-04T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71,35364,4,2,NULL
+2023-03-11T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71.1,35032,4,2,NULL
+2023-03-18T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71.1,34699,4,2,NULL
+2023-03-25T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71.1,34364,4,2,NULL
+2023-04-01T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71.1,33827,4,2,NULL
+2023-04-08T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71.1,33296,4,2,NULL
+2023-04-15T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71.2,32539,4,2,NULL
+2023-04-22T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71.2,31649,4,2,NULL
+2023-04-29T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71.2,30682,4,2,NULL
+2023-05-06T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71.1,29669,4,2,NULL
+2023-05-13T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71.2,28508,4,2,NULL
+2023-05-20T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71.1,27364,4,2,NULL
+2023-05-27T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71.2,26212,4,2,NULL
+2023-06-03T00:00:00.000,Hispanic/Latino,Fully Vaccinated,Any,71.1,25186,4,2,NULL
+2021-01-09T00:00:00.000,"Other, NH",Fully Vaccinated,Any,0.3,4862,5,2,NULL
+2021-01-16T00:00:00.000,"Other, NH",Fully Vaccinated,Any,0.9,4870,5,2,NULL
+2021-01-23T00:00:00.000,"Other, NH",Fully Vaccinated,Any,1.3,4838,5,2,NULL
+2021-01-30T00:00:00.000,"Other, NH",Fully Vaccinated,Any,2.1,4854,5,2,NULL
+2021-02-06T00:00:00.000,"Other, NH",Fully Vaccinated,Any,2.8,4885,5,2,NULL
+2021-02-13T00:00:00.000,"Other, NH",Fully Vaccinated,Any,3.9,4892,5,2,NULL
+2021-02-20T00:00:00.000,"Other, NH",Fully Vaccinated,Any,4.7,4889,5,2,NULL
+2021-02-27T00:00:00.000,"Other, NH",Fully Vaccinated,Any,5.5,4862,5,2,NULL
+2021-03-06T00:00:00.000,"Other, NH",Fully Vaccinated,Any,6.7,4845,5,2,NULL
+2021-03-13T00:00:00.000,"Other, NH",Fully Vaccinated,Any,8.2,4865,5,2,NULL
+2021-03-20T00:00:00.000,"Other, NH",Fully Vaccinated,Any,9.7,4878,5,2,NULL
+2021-03-27T00:00:00.000,"Other, NH",Fully Vaccinated,Any,11.9,4855,5,2,NULL
+2021-04-03T00:00:00.000,"Other, NH",Fully Vaccinated,Any,13.9,4840,5,2,NULL
+2021-04-10T00:00:00.000,"Other, NH",Fully Vaccinated,Any,16.6,4862,5,2,NULL
+2021-04-17T00:00:00.000,"Other, NH",Fully Vaccinated,Any,19.4,4848,5,2,NULL
+2021-04-24T00:00:00.000,"Other, NH",Fully Vaccinated,Any,23,4813,5,2,NULL
+2021-05-01T00:00:00.000,"Other, NH",Fully Vaccinated,Any,25.7,4796,5,2,NULL
+2021-05-08T00:00:00.000,"Other, NH",Fully Vaccinated,Any,28.9,4798,5,2,NULL
+2021-05-15T00:00:00.000,"Other, NH",Fully Vaccinated,Any,31.7,4815,5,2,NULL
+2021-05-22T00:00:00.000,"Other, NH",Fully Vaccinated,Any,34.1,4828,5,2,NULL
+2021-05-29T00:00:00.000,"Other, NH",Fully Vaccinated,Any,36.1,4814,5,2,NULL
+2021-06-05T00:00:00.000,"Other, NH",Fully Vaccinated,Any,38,4818,5,2,NULL
+2021-06-12T00:00:00.000,"Other, NH",Fully Vaccinated,Any,40.2,4825,5,2,NULL
+2021-06-19T00:00:00.000,"Other, NH",Fully Vaccinated,Any,41.8,4816,5,2,NULL
+2021-06-26T00:00:00.000,"Other, NH",Fully Vaccinated,Any,42.9,4831,5,2,NULL
+2021-07-03T00:00:00.000,"Other, NH",Fully Vaccinated,Any,44,4834,5,2,NULL
+2021-07-10T00:00:00.000,"Other, NH",Fully Vaccinated,Any,45.1,4831,5,2,NULL
+2021-07-17T00:00:00.000,"Other, NH",Fully Vaccinated,Any,46.1,4851,5,2,NULL
+2021-07-24T00:00:00.000,"Other, NH",Fully Vaccinated,Any,47.2,4837,5,2,NULL
+2021-07-31T00:00:00.000,"Other, NH",Fully Vaccinated,Any,48.4,4820,5,2,NULL
+2021-08-07T00:00:00.000,"Other, NH",Fully Vaccinated,Any,49.4,4814,5,2,NULL
+2021-08-14T00:00:00.000,"Other, NH",Fully Vaccinated,Any,50.1,4788,5,2,NULL
+2021-08-21T00:00:00.000,"Other, NH",Fully Vaccinated,Any,51.6,4783,5,2,NULL
+2021-08-28T00:00:00.000,"Other, NH",Fully Vaccinated,Any,52.8,4770,5,2,NULL
+2021-09-04T00:00:00.000,"Other, NH",Fully Vaccinated,Any,54.1,4759,5,2,NULL
+2021-09-11T00:00:00.000,"Other, NH",Fully Vaccinated,Any,55.9,4762,5,2,NULL
+2021-09-18T00:00:00.000,"Other, NH",Fully Vaccinated,Any,58.2,4751,5,2,NULL
+2021-09-25T00:00:00.000,"Other, NH",Fully Vaccinated,Any,59.8,4748,5,2,NULL
+2021-10-02T00:00:00.000,"Other, NH",Fully Vaccinated,Any,61.1,4731,5,2,NULL
+2021-10-09T00:00:00.000,"Other, NH",Fully Vaccinated,Any,62,4731,5,2,NULL
+2021-10-16T00:00:00.000,"Other, NH",Fully Vaccinated,Any,63,4713,5,2,NULL
+2021-10-23T00:00:00.000,"Other, NH",Fully Vaccinated,Any,63.7,4742,5,2,NULL
+2021-10-30T00:00:00.000,"Other, NH",Fully Vaccinated,Any,64.1,4736,5,2,NULL
+2021-11-06T00:00:00.000,"Other, NH",Fully Vaccinated,Any,64.9,4750,5,2,NULL
+2021-11-13T00:00:00.000,"Other, NH",Fully Vaccinated,Any,65.6,4790,5,2,NULL
+2021-11-20T00:00:00.000,"Other, NH",Fully Vaccinated,Any,66.1,4806,5,2,NULL
+2021-11-27T00:00:00.000,"Other, NH",Fully Vaccinated,Any,66.3,4824,5,2,NULL
+2021-12-04T00:00:00.000,"Other, NH",Fully Vaccinated,Any,67,4837,5,2,NULL
+2021-12-11T00:00:00.000,"Other, NH",Fully Vaccinated,Any,67.2,4844,5,2,NULL
+2021-12-18T00:00:00.000,"Other, NH",Fully Vaccinated,Any,67.3,4879,5,2,NULL
+2021-12-25T00:00:00.000,"Other, NH",Fully Vaccinated,Any,67.7,4900,5,2,NULL
+2022-01-01T00:00:00.000,"Other, NH",Fully Vaccinated,Any,67.7,4885,5,2,NULL
+2022-01-08T00:00:00.000,"Other, NH",Fully Vaccinated,Any,68.1,4889,5,2,NULL
+2022-01-15T00:00:00.000,"Other, NH",Fully Vaccinated,Any,68.7,4900,5,2,NULL
+2022-01-22T00:00:00.000,"Other, NH",Fully Vaccinated,Any,69,4894,5,2,NULL
+2021-10-02T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,83,15871,2,2,NULL
+2021-10-09T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,83.8,15898,2,2,NULL
+2021-10-16T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,84.5,15905,2,2,NULL
+2021-10-23T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,85.3,15903,2,2,NULL
+2021-10-30T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,85.8,15878,2,2,NULL
+2021-11-06T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,86.6,15895,2,2,NULL
+2021-11-13T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,87,15879,2,2,NULL
+2021-11-20T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,87.4,15848,2,2,NULL
+2021-11-27T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,87.8,15889,2,2,NULL
+2021-12-04T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,88.2,15904,2,2,NULL
+2021-12-11T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,88.5,15834,2,2,NULL
+2021-12-18T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,88.8,15836,2,2,NULL
+2021-12-25T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89,15819,2,2,NULL
+2022-01-01T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.2,15867,2,2,NULL
+2022-01-08T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.4,15893,2,2,NULL
+2022-01-15T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.5,15970,2,2,NULL
+2022-01-22T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.6,15989,2,2,NULL
+2022-01-29T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.9,16046,2,2,NULL
+2022-02-05T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90.1,16099,2,2,NULL
+2022-02-12T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90.1,16089,2,2,NULL
+2022-02-19T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90.2,16046,2,2,NULL
+2022-02-26T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90.2,16015,2,2,NULL
+2022-03-05T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90.2,16024,2,2,NULL
+2022-03-12T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90.3,16018,2,2,NULL
+2022-03-19T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90.3,16070,2,2,NULL
+2022-03-26T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90.3,16025,2,2,NULL
+2022-04-02T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90.3,15965,2,2,NULL
+2022-04-09T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90.3,15914,2,2,NULL
+2022-04-16T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90.2,15934,2,2,NULL
+2022-04-23T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90.2,15908,2,2,NULL
+2022-04-30T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90.2,15861,2,2,NULL
+2022-05-07T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90.2,15861,2,2,NULL
+2022-05-14T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90.2,15852,2,2,NULL
+2022-05-21T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90.2,15817,2,2,NULL
+2022-05-28T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90.2,15817,2,2,NULL
+2022-06-04T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90.2,15759,2,2,NULL
+2022-06-11T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90.1,15715,2,2,NULL
+2022-06-18T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90,15696,2,2,NULL
+2022-06-25T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90.1,15705,2,2,NULL
+2022-07-02T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90.1,15720,2,2,NULL
+2022-07-09T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90.1,15730,2,2,NULL
+2022-07-16T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90,15720,2,2,NULL
+2022-07-23T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,90,15708,2,2,NULL
+2022-07-30T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.9,15756,2,2,NULL
+2022-08-06T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.9,15762,2,2,NULL
+2022-08-13T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.8,15717,2,2,NULL
+2022-08-20T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.7,15698,2,2,NULL
+2022-08-27T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.7,15710,2,2,NULL
+2022-09-03T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.7,15675,2,2,NULL
+2022-09-10T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.5,15612,2,2,NULL
+2022-09-17T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.5,15550,2,2,NULL
+2022-09-24T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.4,15500,2,2,NULL
+2022-10-01T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.4,15506,2,2,NULL
+2022-10-08T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.5,15436,2,2,NULL
+2022-10-15T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.4,15417,2,2,NULL
+2022-10-22T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.3,15368,2,2,NULL
+2022-10-29T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.2,15336,2,2,NULL
+2022-11-05T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.1,15336,2,2,NULL
+2022-11-12T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.1,15301,2,2,NULL
+2022-11-19T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.2,15217,2,2,NULL
+2022-11-26T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.1,15161,2,2,NULL
+2022-12-03T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.2,15160,2,2,NULL
+2022-12-10T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.1,15106,2,2,NULL
+2022-12-17T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.1,15087,2,2,NULL
+2022-01-29T00:00:00.000,"Other, NH",Fully Vaccinated,Any,69.3,4921,5,2,NULL
+2022-02-05T00:00:00.000,"Other, NH",Fully Vaccinated,Any,69.6,4964,5,2,NULL
+2022-02-12T00:00:00.000,"Other, NH",Fully Vaccinated,Any,70.2,4968,5,2,NULL
+2022-02-19T00:00:00.000,"Other, NH",Fully Vaccinated,Any,70.3,4957,5,2,NULL
+2022-02-26T00:00:00.000,"Other, NH",Fully Vaccinated,Any,70.4,4945,5,2,NULL
+2022-03-05T00:00:00.000,"Other, NH",Fully Vaccinated,Any,70.3,4942,5,2,NULL
+2022-03-12T00:00:00.000,"Other, NH",Fully Vaccinated,Any,70.4,4944,5,2,NULL
+2022-03-19T00:00:00.000,"Other, NH",Fully Vaccinated,Any,70.7,4955,5,2,NULL
+2022-03-26T00:00:00.000,"Other, NH",Fully Vaccinated,Any,70.4,4971,5,2,NULL
+2022-04-02T00:00:00.000,"Other, NH",Fully Vaccinated,Any,70.7,4973,5,2,NULL
+2022-04-09T00:00:00.000,"Other, NH",Fully Vaccinated,Any,70.6,4968,5,2,NULL
+2022-04-16T00:00:00.000,"Other, NH",Fully Vaccinated,Any,70.9,4928,5,2,NULL
+2022-04-23T00:00:00.000,"Other, NH",Fully Vaccinated,Any,70.8,4919,5,2,NULL
+2022-04-30T00:00:00.000,"Other, NH",Fully Vaccinated,Any,70.8,4916,5,2,NULL
+2022-05-07T00:00:00.000,"Other, NH",Fully Vaccinated,Any,70.6,4916,5,2,NULL
+2022-05-14T00:00:00.000,"Other, NH",Fully Vaccinated,Any,70.8,4926,5,2,NULL
+2022-05-21T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.1,4946,5,2,NULL
+2022-05-28T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.2,4950,5,2,NULL
+2022-06-04T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.4,4950,5,2,NULL
+2022-06-11T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.8,4947,5,2,NULL
+2022-06-18T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.6,4961,5,2,NULL
+2022-06-25T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.7,4967,5,2,NULL
+2022-07-02T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.5,4999,5,2,NULL
+2022-07-09T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.7,4996,5,2,NULL
+2022-07-16T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.6,5009,5,2,NULL
+2022-07-23T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.7,5020,5,2,NULL
+2022-07-30T00:00:00.000,"Other, NH",Fully Vaccinated,Any,72,5035,5,2,NULL
+2022-08-06T00:00:00.000,"Other, NH",Fully Vaccinated,Any,72.1,5012,5,2,NULL
+2022-08-13T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.8,5014,5,2,NULL
+2022-08-20T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.8,5025,5,2,NULL
+2022-08-27T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.7,5018,5,2,NULL
+2022-09-03T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.6,5000,5,2,NULL
+2022-09-10T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.6,4964,5,2,NULL
+2022-09-17T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.6,4978,5,2,NULL
+2022-09-24T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.9,4991,5,2,NULL
+2022-10-01T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.9,5021,5,2,NULL
+2022-10-08T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.9,5019,5,2,NULL
+2022-10-15T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.7,5057,5,2,NULL
+2022-10-22T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.6,5107,5,2,NULL
+2022-10-29T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.6,5145,5,2,NULL
+2022-11-05T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.8,5210,5,2,NULL
+2022-11-12T00:00:00.000,"Other, NH",Fully Vaccinated,Any,72,5210,5,2,NULL
+2022-11-19T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.7,5249,5,2,NULL
+2022-11-26T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.3,5194,5,2,NULL
+2022-12-03T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.4,5189,5,2,NULL
+2022-12-10T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.1,5163,5,2,NULL
+2022-12-17T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.4,5167,5,2,NULL
+2022-12-24T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.4,5166,5,2,NULL
+2022-12-31T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.4,5124,5,2,NULL
+2023-01-07T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.1,5133,5,2,NULL
+2023-01-14T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.1,5141,5,2,NULL
+2023-01-21T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.1,5174,5,2,NULL
+2023-01-28T00:00:00.000,"Other, NH",Fully Vaccinated,Any,70.9,5162,5,2,NULL
+2023-02-04T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71,5147,5,2,NULL
+2023-02-11T00:00:00.000,"Other, NH",Fully Vaccinated,Any,70.9,5122,5,2,NULL
+2023-02-18T00:00:00.000,"Other, NH",Fully Vaccinated,Any,70.9,5088,5,2,NULL
+2023-02-25T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.2,5097,5,2,NULL
+2023-03-04T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.3,5101,5,2,NULL
+2023-03-11T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.2,5065,5,2,NULL
+2023-03-18T00:00:00.000,"Other, NH",Fully Vaccinated,Any,70.9,5022,5,2,NULL
+2023-03-25T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71,4935,5,2,NULL
+2023-04-01T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.5,4870,5,2,NULL
+2023-04-08T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.6,4790,5,2,NULL
+2023-04-15T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.6,4705,5,2,NULL
+2023-04-22T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.6,4580,5,2,NULL
+2023-04-29T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.6,4426,5,2,NULL
+2023-05-06T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.6,4256,5,2,NULL
+2023-05-13T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.7,4104,5,2,NULL
+2023-05-20T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.5,3931,5,2,NULL
+2023-05-27T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.7,3785,5,2,NULL
+2023-06-03T00:00:00.000,"Other, NH",Fully Vaccinated,Any,71.6,3627,5,2,NULL
+2021-01-09T00:00:00.000,"White, NH",Fully Vaccinated,Any,0.3,36132,6,2,NULL
+2021-01-16T00:00:00.000,"White, NH",Fully Vaccinated,Any,0.9,36284,6,2,NULL
+2021-01-23T00:00:00.000,"White, NH",Fully Vaccinated,Any,1.6,36269,6,2,NULL
+2021-01-30T00:00:00.000,"White, NH",Fully Vaccinated,Any,2.4,36343,6,2,NULL
+2021-02-06T00:00:00.000,"White, NH",Fully Vaccinated,Any,3.4,36388,6,2,NULL
+2021-02-13T00:00:00.000,"White, NH",Fully Vaccinated,Any,4.6,36311,6,2,NULL
+2021-02-20T00:00:00.000,"White, NH",Fully Vaccinated,Any,5.8,36277,6,2,NULL
+2021-02-27T00:00:00.000,"White, NH",Fully Vaccinated,Any,7,36327,6,2,NULL
+2021-03-06T00:00:00.000,"White, NH",Fully Vaccinated,Any,8.2,36320,6,2,NULL
+2021-03-13T00:00:00.000,"White, NH",Fully Vaccinated,Any,9.8,36264,6,2,NULL
+2021-03-20T00:00:00.000,"White, NH",Fully Vaccinated,Any,11.7,36131,6,2,NULL
+2021-03-27T00:00:00.000,"White, NH",Fully Vaccinated,Any,14.3,36022,6,2,NULL
+2021-04-03T00:00:00.000,"White, NH",Fully Vaccinated,Any,16.9,35916,6,2,NULL
+2021-04-10T00:00:00.000,"White, NH",Fully Vaccinated,Any,20.2,35809,6,2,NULL
+2021-04-17T00:00:00.000,"White, NH",Fully Vaccinated,Any,24,35760,6,2,NULL
+2021-04-24T00:00:00.000,"White, NH",Fully Vaccinated,Any,28,35609,6,2,NULL
+2021-05-01T00:00:00.000,"White, NH",Fully Vaccinated,Any,31.1,35536,6,2,NULL
+2021-05-08T00:00:00.000,"White, NH",Fully Vaccinated,Any,34.1,35446,6,2,NULL
+2021-05-15T00:00:00.000,"White, NH",Fully Vaccinated,Any,36.5,35321,6,2,NULL
+2021-05-22T00:00:00.000,"White, NH",Fully Vaccinated,Any,38.5,35286,6,2,NULL
+2021-05-29T00:00:00.000,"White, NH",Fully Vaccinated,Any,40.4,35209,6,2,NULL
+2021-06-05T00:00:00.000,"White, NH",Fully Vaccinated,Any,41.8,35078,6,2,NULL
+2021-06-12T00:00:00.000,"White, NH",Fully Vaccinated,Any,43.1,34970,6,2,NULL
+2021-06-19T00:00:00.000,"White, NH",Fully Vaccinated,Any,44.4,34856,6,2,NULL
+2021-06-26T00:00:00.000,"White, NH",Fully Vaccinated,Any,45.4,34837,6,2,NULL
+2021-07-03T00:00:00.000,"White, NH",Fully Vaccinated,Any,46.4,34759,6,2,NULL
+2021-07-10T00:00:00.000,"White, NH",Fully Vaccinated,Any,47.5,34652,6,2,NULL
+2021-07-17T00:00:00.000,"White, NH",Fully Vaccinated,Any,48.3,34569,6,2,NULL
+2021-07-24T00:00:00.000,"White, NH",Fully Vaccinated,Any,49.1,34504,6,2,NULL
+2021-07-31T00:00:00.000,"White, NH",Fully Vaccinated,Any,49.9,34387,6,2,NULL
+2021-08-07T00:00:00.000,"White, NH",Fully Vaccinated,Any,50.8,34274,6,2,NULL
+2021-08-14T00:00:00.000,"White, NH",Fully Vaccinated,Any,51.8,34191,6,2,NULL
+2021-08-21T00:00:00.000,"White, NH",Fully Vaccinated,Any,52.9,34125,6,2,NULL
+2021-08-28T00:00:00.000,"White, NH",Fully Vaccinated,Any,54.1,34021,6,2,NULL
+2021-09-04T00:00:00.000,"White, NH",Fully Vaccinated,Any,55.3,33936,6,2,NULL
+2021-09-11T00:00:00.000,"White, NH",Fully Vaccinated,Any,56.5,33774,6,2,NULL
+2021-09-18T00:00:00.000,"White, NH",Fully Vaccinated,Any,57.9,33771,6,2,NULL
+2021-09-25T00:00:00.000,"White, NH",Fully Vaccinated,Any,59.3,33581,6,2,NULL
+2021-10-02T00:00:00.000,"White, NH",Fully Vaccinated,Any,60.4,33481,6,2,NULL
+2021-10-09T00:00:00.000,"White, NH",Fully Vaccinated,Any,61.4,33375,6,2,NULL
+2021-10-16T00:00:00.000,"White, NH",Fully Vaccinated,Any,62.1,33292,6,2,NULL
+2021-10-23T00:00:00.000,"White, NH",Fully Vaccinated,Any,62.7,33160,6,2,NULL
+2021-10-30T00:00:00.000,"White, NH",Fully Vaccinated,Any,63.2,33099,6,2,NULL
+2021-11-06T00:00:00.000,"White, NH",Fully Vaccinated,Any,63.9,33041,6,2,NULL
+2021-11-13T00:00:00.000,"White, NH",Fully Vaccinated,Any,64.3,33045,6,2,NULL
+2021-11-20T00:00:00.000,"White, NH",Fully Vaccinated,Any,64.7,32969,6,2,NULL
+2021-11-27T00:00:00.000,"White, NH",Fully Vaccinated,Any,64.9,32971,6,2,NULL
+2021-12-04T00:00:00.000,"White, NH",Fully Vaccinated,Any,65.2,33028,6,2,NULL
+2021-12-11T00:00:00.000,"White, NH",Fully Vaccinated,Any,65.5,32974,6,2,NULL
+2021-12-18T00:00:00.000,"White, NH",Fully Vaccinated,Any,65.7,32991,6,2,NULL
+2021-12-25T00:00:00.000,"White, NH",Fully Vaccinated,Any,65.9,32960,6,2,NULL
+2022-01-01T00:00:00.000,"White, NH",Fully Vaccinated,Any,66.3,33022,6,2,NULL
+2022-01-08T00:00:00.000,"White, NH",Fully Vaccinated,Any,66.6,32927,6,2,NULL
+2022-01-15T00:00:00.000,"White, NH",Fully Vaccinated,Any,66.7,32848,6,2,NULL
+2022-01-22T00:00:00.000,"White, NH",Fully Vaccinated,Any,66.9,32814,6,2,NULL
+2022-01-29T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.2,32800,6,2,NULL
+2022-02-05T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.4,32807,6,2,NULL
+2022-02-12T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.5,32788,6,2,NULL
+2022-02-19T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.6,32647,6,2,NULL
+2022-02-26T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.7,32663,6,2,NULL
+2022-03-05T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.7,32581,6,2,NULL
+2022-03-12T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.8,32435,6,2,NULL
+2022-03-19T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.9,32375,6,2,NULL
+2022-03-26T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.9,32303,6,2,NULL
+2022-04-02T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.8,32269,6,2,NULL
+2022-04-09T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.8,32225,6,2,NULL
+2022-04-16T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.9,32228,6,2,NULL
+2022-04-23T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.8,32155,6,2,NULL
+2022-04-30T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.9,32170,6,2,NULL
+2022-05-07T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.9,32059,6,2,NULL
+2022-05-14T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.8,31977,6,2,NULL
+2022-05-21T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.8,31955,6,2,NULL
+2022-05-28T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.8,31857,6,2,NULL
+2022-06-04T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.7,31712,6,2,NULL
+2022-06-11T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.8,31629,6,2,NULL
+2022-06-18T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.8,31633,6,2,NULL
+2022-06-25T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.8,31640,6,2,NULL
+2022-07-02T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.7,31661,6,2,NULL
+2022-07-09T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.8,31667,6,2,NULL
+2022-07-16T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.8,31764,6,2,NULL
+2022-07-23T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.8,31685,6,2,NULL
+2022-07-30T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.8,31662,6,2,NULL
+2022-08-06T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.8,31757,6,2,NULL
+2022-08-13T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.8,31756,6,2,NULL
+2022-08-20T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.7,31830,6,2,NULL
+2022-08-27T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.7,31841,6,2,NULL
+2022-09-03T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.7,31817,6,2,NULL
+2022-09-10T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.7,31778,6,2,NULL
+2022-09-17T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.6,31840,6,2,NULL
+2022-09-24T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.7,31922,6,2,NULL
+2022-10-01T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.7,31930,6,2,NULL
+2022-10-08T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.7,31977,6,2,NULL
+2022-10-15T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.7,32172,6,2,NULL
+2022-10-22T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.8,32433,6,2,NULL
+2022-10-29T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.8,32730,6,2,NULL
+2022-11-05T00:00:00.000,"White, NH",Fully Vaccinated,Any,68,32843,6,2,NULL
+2022-11-12T00:00:00.000,"White, NH",Fully Vaccinated,Any,68,32844,6,2,NULL
+2022-11-19T00:00:00.000,"White, NH",Fully Vaccinated,Any,68.1,32917,6,2,NULL
+2022-11-26T00:00:00.000,"White, NH",Fully Vaccinated,Any,68.1,32758,6,2,NULL
+2022-12-03T00:00:00.000,"White, NH",Fully Vaccinated,Any,68,32747,6,2,NULL
+2022-12-10T00:00:00.000,"White, NH",Fully Vaccinated,Any,68.1,32540,6,2,NULL
+2022-12-17T00:00:00.000,"White, NH",Fully Vaccinated,Any,68,32477,6,2,NULL
+2022-12-24T00:00:00.000,"White, NH",Fully Vaccinated,Any,68,32339,6,2,NULL
+2022-12-31T00:00:00.000,"White, NH",Fully Vaccinated,Any,68.1,32248,6,2,NULL
+2023-01-07T00:00:00.000,"White, NH",Fully Vaccinated,Any,68,32259,6,2,NULL
+2023-01-14T00:00:00.000,"White, NH",Fully Vaccinated,Any,68,32223,6,2,NULL
+2023-01-21T00:00:00.000,"White, NH",Fully Vaccinated,Any,68,32134,6,2,NULL
+2023-01-28T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.9,32040,6,2,NULL
+2023-02-04T00:00:00.000,"White, NH",Fully Vaccinated,Any,68,31929,6,2,NULL
+2023-02-11T00:00:00.000,"White, NH",Fully Vaccinated,Any,68,31855,6,2,NULL
+2023-02-18T00:00:00.000,"White, NH",Fully Vaccinated,Any,68,31728,6,2,NULL
+2023-02-25T00:00:00.000,"White, NH",Fully Vaccinated,Any,68,31496,6,2,NULL
+2023-03-04T00:00:00.000,"White, NH",Fully Vaccinated,Any,68,31259,6,2,NULL
+2023-03-11T00:00:00.000,"White, NH",Fully Vaccinated,Any,68,30985,6,2,NULL
+2023-03-18T00:00:00.000,"White, NH",Fully Vaccinated,Any,68,30691,6,2,NULL
+2023-03-25T00:00:00.000,"White, NH",Fully Vaccinated,Any,68.1,30290,6,2,NULL
+2023-04-01T00:00:00.000,"White, NH",Fully Vaccinated,Any,68.1,29817,6,2,NULL
+2023-04-08T00:00:00.000,"White, NH",Fully Vaccinated,Any,68,29305,6,2,NULL
+2023-04-15T00:00:00.000,"White, NH",Fully Vaccinated,Any,68,28612,6,2,NULL
+2023-04-22T00:00:00.000,"White, NH",Fully Vaccinated,Any,68,27772,6,2,NULL
+2023-04-29T00:00:00.000,"White, NH",Fully Vaccinated,Any,68.1,26849,6,2,NULL
+2023-05-06T00:00:00.000,"White, NH",Fully Vaccinated,Any,68,25922,6,2,NULL
+2023-05-13T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.9,24880,6,2,NULL
+2023-05-20T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.8,23943,6,2,NULL
+2023-05-27T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.7,22974,6,2,NULL
+2023-06-03T00:00:00.000,"White, NH",Fully Vaccinated,Any,67.7,22085,6,2,NULL
+2022-02-19T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,2.1,102158,1,1,2
+2022-02-26T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,1.9,102250,1,1,2
+2022-03-05T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,1.8,102305,1,1,2
+2022-03-12T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,1.7,102234,1,1,2
+2022-03-19T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,1.7,102132,1,1,2
+2022-03-26T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,1.6,102044,1,1,2
+2022-04-02T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,1.6,101916,1,1,2
+2022-04-09T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,1.5,101836,1,1,2
+2022-04-16T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,1.5,101844,1,1,2
+2022-04-23T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,1.4,101838,1,1,2
+2022-04-30T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,1.4,101818,1,1,2
+2022-05-07T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,1.3,101806,1,1,2
+2022-05-14T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,1.3,101657,1,1,2
+2022-05-21T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,1.2,101596,1,1,2
+2022-05-28T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,1.2,101453,1,1,2
+2022-06-04T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,1.1,101248,1,1,2
+2022-06-11T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,1,101227,1,1,2
+2022-06-18T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.9,101178,1,1,2
+2022-06-25T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.9,101270,1,1,2
+2022-07-02T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.8,101364,1,1,2
+2022-07-09T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.7,101381,1,1,2
+2022-07-16T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.7,101607,1,1,2
+2022-07-23T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.6,101548,1,1,2
+2022-07-30T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.6,101475,1,1,2
+2022-08-06T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.6,101515,1,1,2
+2022-08-13T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.5,101408,1,1,2
+2022-08-20T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.5,101419,1,1,2
+2022-08-27T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.4,101347,1,1,2
+2022-09-03T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.4,101149,1,1,2
+2022-09-10T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.4,100842,1,1,2
+2022-09-17T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.4,100832,1,1,2
+2022-09-24T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.3,100885,1,1,2
+2022-10-01T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.3,100903,1,1,2
+2022-10-08T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.3,101037,1,1,2
+2022-10-15T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.3,101436,1,1,2
+2022-10-22T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.3,101932,1,1,2
+2022-10-29T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.2,102400,1,1,2
+2022-11-05T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.2,102759,1,1,2
+2022-11-12T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.2,102937,1,1,2
+2022-11-19T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.2,103142,1,1,2
+2022-11-26T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.2,102794,1,1,2
+2022-12-03T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.2,102932,1,1,2
+2022-12-10T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.2,102461,1,1,2
+2022-12-17T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.2,102445,1,1,2
+2022-12-24T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.2,102294,1,1,2
+2022-12-31T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.2,102051,1,1,2
+2023-01-07T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.1,102268,1,1,2
+2023-01-14T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.1,102234,1,1,2
+2023-01-21T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.1,102047,1,1,2
+2023-01-28T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.1,101871,1,1,2
+2023-02-04T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.1,101644,1,1,2
+2023-02-11T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.1,101282,1,1,2
+2023-02-18T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.1,100858,1,1,2
+2023-02-25T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.1,100257,1,1,2
+2023-03-04T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.1,99665,1,1,2
+2023-03-11T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.1,98855,1,1,2
+2023-03-18T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.1,97960,1,1,2
+2023-03-25T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.1,96831,1,1,2
+2023-04-01T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.1,95338,1,1,2
+2023-04-08T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.1,93718,1,1,2
+2023-04-15T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.1,91606,1,1,2
+2023-04-22T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.1,89003,1,1,2
+2023-04-29T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.1,86174,1,1,2
+2023-05-06T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.1,83188,1,1,2
+2023-05-13T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.1,79925,1,1,2
+2023-05-20T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.1,76756,1,1,2
+2023-05-27T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.1,73590,1,1,2
+2023-06-03T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before and During Pregnancy,0.1,70671,1,1,2
+2021-01-09T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,0,103890,1,1,1
+2021-01-16T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,0,104250,1,1,1
+2021-01-23T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,0.1,104326,1,1,1
+2021-01-30T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,0.2,104623,1,1,1
+2021-02-06T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,0.4,104946,1,1,1
+2021-02-13T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,0.6,104927,1,1,1
+2021-02-20T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,0.9,105005,1,1,1
+2021-02-27T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,1.2,105186,1,1,1
+2021-03-06T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,1.6,105374,1,1,1
+2021-03-13T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,1.9,105426,1,1,1
+2021-03-20T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,2.4,105416,1,1,1
+2021-03-27T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,2.9,105411,1,1,1
+2021-04-03T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,3.5,105268,1,1,1
+2021-04-10T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,4.2,105282,1,1,1
+2021-04-17T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,5,105334,1,1,1
+2021-04-24T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,5.9,105124,1,1,1
+2021-05-01T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,6.9,105018,1,1,1
+2021-05-08T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,7.9,104992,1,1,1
+2021-05-15T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,9,104992,1,1,1
+2021-05-22T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,10.3,105044,1,1,1
+2021-05-29T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,11.7,104914,1,1,1
+2021-06-05T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,13.1,104718,1,1,1
+2021-06-12T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,14.6,104721,1,1,1
+2021-06-19T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,16,104629,1,1,1
+2021-06-26T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,17.4,104633,1,1,1
+2021-07-03T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,18.9,104400,1,1,1
+2021-07-10T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,20.4,104178,1,1,1
+2021-07-17T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,21.9,104033,1,1,1
+2021-07-24T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,23.3,103905,1,1,1
+2021-07-31T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,24.7,103746,1,1,1
+2021-08-07T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,26.2,103612,1,1,1
+2021-08-14T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,27.7,103349,1,1,1
+2021-08-21T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,29.2,103173,1,1,1
+2021-08-28T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,30.6,102762,1,1,1
+2021-09-04T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,32.1,102509,1,1,1
+2021-09-11T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,33.7,102196,1,1,1
+2021-09-18T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,35.2,102038,1,1,1
+2021-09-25T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,36.9,101757,1,1,1
+2021-10-02T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,38.6,101559,1,1,1
+2021-10-09T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,40.2,101430,1,1,1
+2021-10-16T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,41.9,101314,1,1,1
+2021-10-23T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,43.5,101246,1,1,1
+2021-10-30T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,45.1,101207,1,1,1
+2021-11-06T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,46.8,101361,1,1,1
+2021-11-13T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,48.3,101487,1,1,1
+2021-11-20T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,49.9,101537,1,1,1
+2021-11-27T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,51.3,101778,1,1,1
+2021-12-04T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,52.7,102108,1,1,1
+2021-12-11T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,54,101925,1,1,1
+2021-12-18T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,55.4,102046,1,1,1
+2021-12-25T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,56.7,101941,1,1,1
+2022-01-01T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,57.9,102144,1,1,1
+2022-01-08T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,59,102176,1,1,1
+2022-01-15T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,60,102140,1,1,1
+2022-01-22T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,61,102076,1,1,1
+2022-01-29T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,61.9,102185,1,1,1
+2022-02-05T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,62.8,102404,1,1,1
+2022-02-12T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,63.5,102318,1,1,1
+2022-02-19T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,64.1,102158,1,1,1
+2022-02-26T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,64.7,102250,1,1,1
+2022-03-05T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,65.1,102305,1,1,1
+2022-03-12T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,65.6,102234,1,1,1
+2022-03-19T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,66,102132,1,1,1
+2022-03-26T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,66.4,102044,1,1,1
+2022-04-02T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,66.7,101916,1,1,1
+2022-04-09T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,67,101836,1,1,1
+2022-04-16T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,67.3,101844,1,1,1
+2022-04-23T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,67.6,101838,1,1,1
+2022-04-30T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,67.9,101818,1,1,1
+2022-05-07T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,68.2,101806,1,1,1
+2022-05-14T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,68.4,101657,1,1,1
+2022-05-21T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,68.7,101596,1,1,1
+2022-05-28T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,69,101453,1,1,1
+2022-06-04T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,69.2,101248,1,1,1
+2022-06-11T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,69.5,101227,1,1,1
+2022-06-18T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,69.6,101178,1,1,1
+2022-06-25T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,69.8,101270,1,1,1
+2022-07-02T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,69.9,101364,1,1,1
+2022-07-09T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,70,101381,1,1,1
+2022-07-16T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,70.1,101607,1,1,1
+2022-07-23T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,70.2,101548,1,1,1
+2022-07-30T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,70.3,101475,1,1,1
+2022-08-06T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,70.4,101515,1,1,1
+2022-08-13T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,70.4,101408,1,1,1
+2022-08-20T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,70.4,101419,1,1,1
+2022-08-27T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,70.5,101347,1,1,1
+2022-09-03T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,70.6,101149,1,1,1
+2022-09-10T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,70.6,100842,1,1,1
+2022-09-17T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,70.7,100832,1,1,1
+2022-09-24T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,70.7,100885,1,1,1
+2022-10-01T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,70.7,100903,1,1,1
+2022-10-08T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,70.8,101037,1,1,1
+2022-10-15T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,70.9,101436,1,1,1
+2022-10-22T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71,101932,1,1,1
+2022-10-29T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71,102400,1,1,1
+2022-11-05T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.1,102759,1,1,1
+2022-11-12T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.1,102937,1,1,1
+2022-11-19T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.1,103142,1,1,1
+2022-11-26T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.1,102794,1,1,1
+2022-12-03T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.1,102932,1,1,1
+2022-12-10T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.2,102461,1,1,1
+2022-12-17T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.1,102445,1,1,1
+2022-12-24T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.1,102294,1,1,1
+2022-12-31T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.1,102051,1,1,1
+2023-01-07T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.1,102268,1,1,1
+2023-01-14T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.1,102234,1,1,1
+2023-01-21T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.1,102047,1,1,1
+2023-01-28T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.1,101871,1,1,1
+2023-02-04T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.2,101644,1,1,1
+2023-02-11T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.2,101282,1,1,1
+2023-02-18T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.2,100858,1,1,1
+2023-02-25T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.2,100257,1,1,1
+2023-03-04T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.3,99665,1,1,1
+2023-03-11T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.3,98855,1,1,1
+2023-03-18T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.3,97960,1,1,1
+2023-03-25T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.4,96831,1,1,1
+2023-04-01T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.4,95338,1,1,1
+2023-04-08T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.4,93718,1,1,1
+2023-04-15T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.4,91606,1,1,1
+2023-04-22T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.5,89003,1,1,1
+2023-04-29T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.5,86174,1,1,1
+2023-05-06T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.5,83188,1,1,1
+2023-05-13T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.5,79925,1,1,1
+2023-05-20T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.4,76756,1,1,1
+2023-05-27T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.5,73590,1,1,1
+2023-06-03T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,Before Pregnancy,71.4,70671,1,1,1
+2020-12-19T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,0,102081,1,1,3
+2020-12-26T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,0,102733,1,1,3
+2021-01-02T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,0,103439,1,1,3
+2021-01-09T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,0.2,103890,1,1,3
+2021-01-16T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,0.6,104250,1,1,3
+2021-01-23T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,0.9,104326,1,1,3
+2021-01-30T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,1.4,104623,1,1,3
+2021-02-06T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,2,104946,1,1,3
+2021-02-13T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,2.6,104927,1,1,3
+2021-02-20T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,3.2,105005,1,1,3
+2021-02-27T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,3.6,105186,1,1,3
+2021-03-06T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,4,105374,1,1,3
+2021-03-13T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,4.7,105426,1,1,3
+2021-03-20T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,5.6,105416,1,1,3
+2021-03-27T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,6.9,105411,1,1,3
+2021-04-03T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,8.1,105268,1,1,3
+2021-04-10T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,10,105282,1,1,3
+2021-04-17T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,12.1,105334,1,1,3
+2021-04-24T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,14.3,105124,1,1,3
+2021-05-01T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,16.1,105018,1,1,3
+2021-05-08T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,17.7,104992,1,1,3
+2021-05-15T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,18.7,104992,1,1,3
+2021-05-22T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,19.6,105044,1,1,3
+2021-05-29T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,20.1,104914,1,1,3
+2021-06-05T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,20.2,104718,1,1,3
+2021-06-12T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,20.4,104721,1,1,3
+2021-06-19T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,20.4,104629,1,1,3
+2021-06-26T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,20.1,104633,1,1,3
+2021-07-03T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,19.9,104400,1,1,3
+2021-07-10T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,19.6,104178,1,1,3
+2021-07-17T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,19.2,104033,1,1,3
+2021-07-24T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,18.8,103905,1,1,3
+2021-07-31T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,18.4,103746,1,1,3
+2021-08-07T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,17.9,103612,1,1,3
+2021-08-14T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,17.6,103349,1,1,3
+2021-08-21T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,17.4,103173,1,1,3
+2021-08-28T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,17.2,102762,1,1,3
+2021-09-04T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,17,102509,1,1,3
+2021-09-11T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,17.1,102196,1,1,3
+2021-09-18T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,17.3,102038,1,1,3
+2021-09-25T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,17.3,101757,1,1,3
+2021-10-02T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,17,101559,1,1,3
+2021-10-09T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,16.5,101430,1,1,3
+2021-10-16T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,15.8,101314,1,1,3
+2021-10-23T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,15.2,101246,1,1,3
+2021-10-30T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,14.4,101207,1,1,3
+2021-11-06T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,13.7,101361,1,1,3
+2021-11-13T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,12.8,101487,1,1,3
+2021-11-20T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,11.9,101537,1,1,3
+2021-11-27T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,11.1,101778,1,1,3
+2021-12-04T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,10.3,102108,1,1,3
+2021-12-11T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,9.4,101925,1,1,3
+2021-12-18T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,8.6,102046,1,1,3
+2021-12-25T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,7.9,101941,1,1,3
+2022-01-01T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,7.3,102144,1,1,3
+2022-01-08T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,6.7,102176,1,1,3
+2022-01-15T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,6.2,102140,1,1,3
+2022-01-22T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,5.8,102076,1,1,3
+2022-01-29T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,5.4,102185,1,1,3
+2022-02-05T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,5.1,102404,1,1,3
+2022-02-12T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,4.8,102318,1,1,3
+2022-02-19T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,4.6,102158,1,1,3
+2022-02-26T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,4.4,102250,1,1,3
+2022-03-05T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,4.1,102305,1,1,3
+2022-03-12T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,3.9,102234,1,1,3
+2022-03-19T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,3.7,102132,1,1,3
+2022-03-26T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,3.4,102044,1,1,3
+2022-04-02T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,3.2,101916,1,1,3
+2022-04-09T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,3,101836,1,1,3
+2022-04-16T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,2.8,101844,1,1,3
+2022-04-23T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,2.6,101838,1,1,3
+2022-04-30T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,2.4,101818,1,1,3
+2022-05-07T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,2.2,101806,1,1,3
+2022-05-14T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,2,101657,1,1,3
+2022-05-21T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,1.8,101596,1,1,3
+2022-05-28T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,1.6,101453,1,1,3
+2022-06-04T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,1.4,101248,1,1,3
+2022-06-11T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,1.3,101227,1,1,3
+2022-06-18T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,1.2,101178,1,1,3
+2022-06-25T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,1.1,101270,1,1,3
+2022-07-02T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,1,101364,1,1,3
+2022-07-09T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,0.9,101381,1,1,3
+2022-07-16T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,0.9,101607,1,1,3
+2022-07-23T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,0.8,101548,1,1,3
+2022-07-30T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,0.8,101475,1,1,3
+2022-08-06T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,0.7,101515,1,1,3
+2022-08-13T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,0.6,101408,1,1,3
+2022-08-20T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,0.6,101419,1,1,3
+2022-08-27T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,0.5,101347,1,1,3
+2022-09-03T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,0.5,101149,1,1,3
+2022-09-10T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,0.5,100842,1,1,3
+2022-09-17T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,0.4,100832,1,1,3
+2022-09-24T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,0.4,100885,1,1,3
+2022-10-01T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,0.4,100903,1,1,3
+2022-10-08T00:00:00.000,All Races/Ethnicity,Fully Vaccinated,During Pregnancy,0.3,101037,1,1,3
+2022-12-24T00:00:00.000,"Asian, NH",Fully Vaccinated,Any,89.1,15051,2,2,NULL

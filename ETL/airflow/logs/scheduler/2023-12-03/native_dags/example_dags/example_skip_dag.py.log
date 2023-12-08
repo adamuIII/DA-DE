@@ -1,0 +1,494 @@
+[2023-12-03T23:07:45.565+0000] {processor.py:157} INFO - Started process (PID=3749) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:07:45.566+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:07:45.567+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:07:45.567+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:07:45.578+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:07:45.697+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:07:45.696+0000] {manager.py:499} INFO - Created Permission View: %s
+[2023-12-03T23:07:45.710+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:07:45.709+0000] {manager.py:499} INFO - Created Permission View: %s
+[2023-12-03T23:07:45.719+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:07:45.718+0000] {manager.py:499} INFO - Created Permission View: %s
+[2023-12-03T23:07:45.719+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:07:45.719+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:07:45.731+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:07:45.730+0000] {dag.py:2963} INFO - Creating ORM DAG for example_skip_dag
+[2023-12-03T23:07:45.740+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:07:45.740+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:07:45.739979+00:00, run_after=2023-12-03T23:07:45.739979+00:00
+[2023-12-03T23:07:45.769+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.207 seconds
+[2023-12-03T23:08:38.531+0000] {processor.py:157} INFO - Started process (PID=3799) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:08:38.532+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:08:38.533+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:08:38.533+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:08:38.542+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:08:38.563+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:08:38.562+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:08:38.585+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:08:38.585+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:08:38.584948+00:00, run_after=2023-12-03T23:08:38.584948+00:00
+[2023-12-03T23:08:38.609+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.082 seconds
+[2023-12-03T23:09:17.435+0000] {processor.py:157} INFO - Started process (PID=3841) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:09:17.436+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:09:17.437+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:09:17.437+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:09:17.446+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:09:17.465+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:09:17.465+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:09:17.486+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:09:17.486+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:09:17.486134+00:00, run_after=2023-12-03T23:09:17.486134+00:00
+[2023-12-03T23:09:17.511+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.080 seconds
+[2023-12-03T23:10:02.774+0000] {processor.py:157} INFO - Started process (PID=3890) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:10:02.776+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:10:02.777+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:10:02.776+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:10:02.785+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:10:02.804+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:10:02.804+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:10:02.826+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:10:02.826+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:10:02.825909+00:00, run_after=2023-12-03T23:10:02.825909+00:00
+[2023-12-03T23:10:02.848+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-12-03T23:10:49.040+0000] {processor.py:157} INFO - Started process (PID=3941) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:10:49.041+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:10:49.042+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:10:49.041+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:10:49.050+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:10:49.069+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:10:49.068+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:10:49.089+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:10:49.089+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:10:49.089151+00:00, run_after=2023-12-03T23:10:49.089151+00:00
+[2023-12-03T23:10:49.111+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2023-12-03T23:11:35.719+0000] {processor.py:157} INFO - Started process (PID=3990) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:11:35.720+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:11:35.721+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:11:35.721+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:11:35.730+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:11:35.749+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:11:35.748+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:11:35.771+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:11:35.770+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:11:35.770518+00:00, run_after=2023-12-03T23:11:35.770518+00:00
+[2023-12-03T23:11:35.795+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.080 seconds
+[2023-12-03T23:12:20.304+0000] {processor.py:157} INFO - Started process (PID=4039) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:12:20.305+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:12:20.306+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:12:20.306+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:12:20.315+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:12:20.334+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:12:20.334+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:12:20.356+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:12:20.355+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:12:20.355531+00:00, run_after=2023-12-03T23:12:20.355531+00:00
+[2023-12-03T23:12:20.379+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.079 seconds
+[2023-12-03T23:13:06.489+0000] {processor.py:157} INFO - Started process (PID=4089) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:13:06.490+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:13:06.491+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:13:06.491+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:13:06.499+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:13:06.518+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:13:06.518+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:13:06.540+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:13:06.539+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:13:06.539663+00:00, run_after=2023-12-03T23:13:06.539663+00:00
+[2023-12-03T23:13:06.562+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-12-03T23:13:50.582+0000] {processor.py:157} INFO - Started process (PID=4139) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:13:50.583+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:13:50.584+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:13:50.583+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:13:50.592+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:13:50.611+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:13:50.611+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:13:50.631+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:13:50.631+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:13:50.631290+00:00, run_after=2023-12-03T23:13:50.631290+00:00
+[2023-12-03T23:13:50.654+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2023-12-03T23:14:39.676+0000] {processor.py:157} INFO - Started process (PID=4194) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:14:39.678+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:14:39.678+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:14:39.678+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:14:39.687+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:14:39.706+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:14:39.705+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:14:39.727+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:14:39.727+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:14:39.727105+00:00, run_after=2023-12-03T23:14:39.727105+00:00
+[2023-12-03T23:14:39.749+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-12-03T23:15:28.843+0000] {processor.py:157} INFO - Started process (PID=4246) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:15:28.845+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:15:28.846+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:15:28.845+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:15:28.854+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:15:28.873+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:15:28.873+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:15:28.895+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:15:28.894+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:15:28.894519+00:00, run_after=2023-12-03T23:15:28.894519+00:00
+[2023-12-03T23:15:28.919+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.079 seconds
+[2023-12-03T23:16:16.279+0000] {processor.py:157} INFO - Started process (PID=4300) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:16:16.281+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:16:16.282+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:16:16.282+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:16:16.291+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:16:16.311+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:16:16.311+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:16:16.333+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:16:16.333+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:16:16.332800+00:00, run_after=2023-12-03T23:16:16.332800+00:00
+[2023-12-03T23:16:16.357+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.081 seconds
+[2023-12-03T23:17:04.099+0000] {processor.py:157} INFO - Started process (PID=4354) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:17:04.101+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:17:04.102+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:17:04.101+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:17:04.110+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:17:04.128+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:17:04.128+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:17:04.149+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:17:04.149+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:17:04.149077+00:00, run_after=2023-12-03T23:17:04.149077+00:00
+[2023-12-03T23:17:04.174+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2023-12-03T23:17:49.029+0000] {processor.py:157} INFO - Started process (PID=4404) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:17:49.030+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:17:49.031+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:17:49.031+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:17:49.039+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:17:49.058+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:17:49.057+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:17:49.078+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:17:49.078+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:17:49.078057+00:00, run_after=2023-12-03T23:17:49.078057+00:00
+[2023-12-03T23:17:49.105+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.080 seconds
+[2023-12-03T23:18:34.655+0000] {processor.py:157} INFO - Started process (PID=4457) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:18:34.657+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:18:34.658+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:18:34.657+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:18:34.666+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:18:34.684+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:18:34.684+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:18:34.706+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:18:34.706+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:18:34.705999+00:00, run_after=2023-12-03T23:18:34.705999+00:00
+[2023-12-03T23:18:34.729+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-12-03T23:19:18.088+0000] {processor.py:157} INFO - Started process (PID=4506) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:19:18.089+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:19:18.090+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:19:18.090+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:19:18.098+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:19:18.117+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:19:18.117+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:19:18.139+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:19:18.138+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:19:18.138471+00:00, run_after=2023-12-03T23:19:18.138471+00:00
+[2023-12-03T23:19:18.161+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-12-03T23:20:02.302+0000] {processor.py:157} INFO - Started process (PID=4555) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:20:02.303+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:20:02.304+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:20:02.304+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:20:02.313+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:20:02.332+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:20:02.332+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:20:02.353+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:20:02.353+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:20:02.353248+00:00, run_after=2023-12-03T23:20:02.353248+00:00
+[2023-12-03T23:20:02.376+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-12-03T23:20:44.519+0000] {processor.py:157} INFO - Started process (PID=4603) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:20:44.520+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:20:44.521+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:20:44.521+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:20:44.529+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:20:44.547+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:20:44.547+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:20:44.570+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:20:44.570+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:20:44.569748+00:00, run_after=2023-12-03T23:20:44.569748+00:00
+[2023-12-03T23:20:44.593+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2023-12-03T23:21:34.305+0000] {processor.py:157} INFO - Started process (PID=4655) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:21:34.307+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:21:34.308+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:21:34.307+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:21:34.316+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:21:34.334+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:21:34.334+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:21:34.355+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:21:34.354+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:21:34.354690+00:00, run_after=2023-12-03T23:21:34.354690+00:00
+[2023-12-03T23:21:34.377+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.075 seconds
+[2023-12-03T23:22:23.558+0000] {processor.py:157} INFO - Started process (PID=4711) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:22:23.560+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:22:23.561+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:22:23.560+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:22:23.569+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:22:23.589+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:22:23.589+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:22:23.610+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:22:23.610+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:22:23.610311+00:00, run_after=2023-12-03T23:22:23.610311+00:00
+[2023-12-03T23:22:23.633+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.079 seconds
+[2023-12-03T23:23:08.055+0000] {processor.py:157} INFO - Started process (PID=4760) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:23:08.056+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:23:08.057+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:23:08.057+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:23:08.066+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:23:08.085+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:23:08.085+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:23:08.108+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:23:08.107+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:23:08.107509+00:00, run_after=2023-12-03T23:23:08.107509+00:00
+[2023-12-03T23:23:08.132+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.080 seconds
+[2023-12-03T23:23:55.876+0000] {processor.py:157} INFO - Started process (PID=4811) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:23:55.877+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:23:55.878+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:23:55.878+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:23:55.886+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:23:55.905+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:23:55.904+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:23:55.925+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:23:55.925+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:23:55.925299+00:00, run_after=2023-12-03T23:23:55.925299+00:00
+[2023-12-03T23:23:55.949+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-12-03T23:24:42.045+0000] {processor.py:157} INFO - Started process (PID=4864) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:24:42.046+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:24:42.047+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:24:42.046+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:24:42.055+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:24:42.075+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:24:42.074+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:24:42.095+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:24:42.095+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:24:42.095036+00:00, run_after=2023-12-03T23:24:42.095036+00:00
+[2023-12-03T23:24:42.117+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2023-12-03T23:25:16.192+0000] {processor.py:157} INFO - Started process (PID=4901) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:25:16.193+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:25:16.194+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:25:16.193+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:25:16.202+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:25:16.221+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:25:16.220+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:25:16.242+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:25:16.242+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:25:16.241858+00:00, run_after=2023-12-03T23:25:16.241858+00:00
+[2023-12-03T23:25:16.265+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2023-12-03T23:26:02.915+0000] {processor.py:157} INFO - Started process (PID=4952) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:26:02.917+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:26:02.918+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:26:02.917+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:26:02.925+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:26:02.944+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:26:02.943+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:26:02.965+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:26:02.964+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:26:02.964673+00:00, run_after=2023-12-03T23:26:02.964673+00:00
+[2023-12-03T23:26:02.988+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2023-12-03T23:26:49.471+0000] {processor.py:157} INFO - Started process (PID=5003) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:26:49.472+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:26:49.473+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:26:49.473+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:26:49.481+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:26:49.500+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:26:49.500+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:26:49.521+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:26:49.521+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:26:49.520900+00:00, run_after=2023-12-03T23:26:49.520900+00:00
+[2023-12-03T23:26:49.545+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2023-12-03T23:27:31.777+0000] {processor.py:157} INFO - Started process (PID=5050) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:27:31.778+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:27:31.779+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:27:31.779+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:27:31.788+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:27:31.807+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:27:31.806+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:27:31.828+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:27:31.828+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:27:31.827718+00:00, run_after=2023-12-03T23:27:31.827718+00:00
+[2023-12-03T23:27:31.851+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-12-03T23:28:14.292+0000] {processor.py:157} INFO - Started process (PID=5097) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:28:14.294+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:28:14.294+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:28:14.294+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:28:14.303+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:28:14.322+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:28:14.322+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:28:14.343+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:28:14.342+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:28:14.342617+00:00, run_after=2023-12-03T23:28:14.342617+00:00
+[2023-12-03T23:28:14.367+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.079 seconds
+[2023-12-03T23:29:02.279+0000] {processor.py:157} INFO - Started process (PID=5148) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:29:02.280+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:29:02.281+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:29:02.281+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:29:02.290+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:29:02.309+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:29:02.309+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:29:02.330+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:29:02.330+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:29:02.329806+00:00, run_after=2023-12-03T23:29:02.329806+00:00
+[2023-12-03T23:29:02.353+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2023-12-03T23:29:38.536+0000] {processor.py:157} INFO - Started process (PID=5187) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:29:38.537+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:29:38.538+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:29:38.537+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:29:38.546+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:29:38.564+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:29:38.564+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:29:38.585+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:29:38.585+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:29:38.584896+00:00, run_after=2023-12-03T23:29:38.584896+00:00
+[2023-12-03T23:29:38.608+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2023-12-03T23:30:25.988+0000] {processor.py:157} INFO - Started process (PID=5242) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:30:25.989+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:30:25.990+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:30:25.989+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:30:25.998+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:30:26.018+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:30:26.018+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:30:26.040+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:30:26.040+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:30:26.040339+00:00, run_after=2023-12-03T23:30:26.040339+00:00
+[2023-12-03T23:30:26.064+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.080 seconds
+[2023-12-03T23:31:11.135+0000] {processor.py:157} INFO - Started process (PID=5291) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:31:11.136+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:31:11.137+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:31:11.137+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:31:11.146+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:31:11.164+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:31:11.164+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:31:11.186+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:31:11.186+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:31:11.185858+00:00, run_after=2023-12-03T23:31:11.185858+00:00
+[2023-12-03T23:31:11.208+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-12-03T23:31:58.931+0000] {processor.py:157} INFO - Started process (PID=5343) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:31:58.932+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:31:58.933+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:31:58.933+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:31:58.942+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:31:58.961+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:31:58.960+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:31:58.982+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:31:58.982+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:31:58.981750+00:00, run_after=2023-12-03T23:31:58.981750+00:00
+[2023-12-03T23:31:59.004+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-12-03T23:32:43.441+0000] {processor.py:157} INFO - Started process (PID=5392) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:32:43.443+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:32:43.444+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:32:43.443+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:32:43.452+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:32:43.471+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:32:43.470+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:32:43.493+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:32:43.493+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:32:43.492779+00:00, run_after=2023-12-03T23:32:43.492779+00:00
+[2023-12-03T23:32:43.518+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.080 seconds
+[2023-12-03T23:33:29.397+0000] {processor.py:157} INFO - Started process (PID=5441) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:33:29.398+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:33:29.399+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:33:29.399+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:33:29.408+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:33:29.427+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:33:29.426+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:33:29.448+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:33:29.448+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:33:29.448261+00:00, run_after=2023-12-03T23:33:29.448261+00:00
+[2023-12-03T23:33:29.472+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2023-12-03T23:34:15.762+0000] {processor.py:157} INFO - Started process (PID=5494) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:34:15.763+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:34:15.764+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:34:15.764+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:34:15.773+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:34:15.792+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:34:15.791+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:34:15.812+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:34:15.812+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:34:15.812268+00:00, run_after=2023-12-03T23:34:15.812268+00:00
+[2023-12-03T23:34:15.835+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-12-03T23:35:04.304+0000] {processor.py:157} INFO - Started process (PID=5546) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:35:04.306+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:35:04.306+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:35:04.306+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:35:04.315+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:35:04.334+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:35:04.334+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:35:04.357+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:35:04.356+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:35:04.356421+00:00, run_after=2023-12-03T23:35:04.356421+00:00
+[2023-12-03T23:35:04.380+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.079 seconds
+[2023-12-03T23:35:53.032+0000] {processor.py:157} INFO - Started process (PID=5600) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:35:53.033+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:35:53.034+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:35:53.034+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:35:53.042+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:35:53.061+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:35:53.061+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:35:53.082+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:35:53.082+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:35:53.082312+00:00, run_after=2023-12-03T23:35:53.082312+00:00
+[2023-12-03T23:35:53.105+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-12-03T23:36:43.368+0000] {processor.py:157} INFO - Started process (PID=5653) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:36:43.369+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:36:43.370+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:36:43.370+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:36:43.379+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:36:43.398+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:36:43.398+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:36:43.420+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:36:43.420+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:36:43.419742+00:00, run_after=2023-12-03T23:36:43.419742+00:00
+[2023-12-03T23:36:43.445+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.081 seconds
+[2023-12-03T23:37:31.365+0000] {processor.py:157} INFO - Started process (PID=5707) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:37:31.366+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:37:31.367+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:37:31.367+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:37:31.375+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:37:31.394+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:37:31.394+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:37:31.415+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:37:31.415+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:37:31.414813+00:00, run_after=2023-12-03T23:37:31.414813+00:00
+[2023-12-03T23:37:31.437+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2023-12-03T23:38:14.978+0000] {processor.py:157} INFO - Started process (PID=5756) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:38:14.980+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:38:14.980+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:38:14.980+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:38:14.989+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:38:15.008+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:38:15.008+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:38:15.030+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:38:15.030+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:38:15.030086+00:00, run_after=2023-12-03T23:38:15.030086+00:00
+[2023-12-03T23:38:15.053+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2023-12-03T23:38:48.312+0000] {processor.py:157} INFO - Started process (PID=5792) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:38:48.313+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:38:48.314+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:38:48.314+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:38:48.322+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:38:48.341+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:38:48.341+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:38:48.362+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:38:48.362+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:38:48.362376+00:00, run_after=2023-12-03T23:38:48.362376+00:00
+[2023-12-03T23:38:48.384+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2023-12-03T23:39:34.662+0000] {processor.py:157} INFO - Started process (PID=5842) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:39:34.664+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:39:34.664+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:39:34.664+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:39:34.673+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:39:34.692+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:39:34.691+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:39:34.713+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:39:34.713+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:39:34.712810+00:00, run_after=2023-12-03T23:39:34.712810+00:00
+[2023-12-03T23:39:34.737+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2023-12-03T23:40:21.133+0000] {processor.py:157} INFO - Started process (PID=5892) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:40:21.135+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:40:21.136+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:40:21.135+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:40:21.144+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:40:21.164+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:40:21.164+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:40:21.188+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:40:21.187+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:40:21.187405+00:00, run_after=2023-12-03T23:40:21.187405+00:00
+[2023-12-03T23:40:21.213+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.083 seconds
+[2023-12-03T23:40:56.331+0000] {processor.py:157} INFO - Started process (PID=5930) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:40:56.333+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:40:56.334+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:40:56.333+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:40:56.342+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:40:56.362+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:40:56.361+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:40:56.383+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:40:56.383+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:40:56.382840+00:00, run_after=2023-12-03T23:40:56.382840+00:00
+[2023-12-03T23:40:56.406+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2023-12-03T23:41:42.273+0000] {processor.py:157} INFO - Started process (PID=5982) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:41:42.275+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:41:42.276+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:41:42.275+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:41:42.284+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:41:42.304+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:41:42.304+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:41:42.327+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:41:42.326+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:41:42.326455+00:00, run_after=2023-12-03T23:41:42.326455+00:00
+[2023-12-03T23:41:42.350+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.081 seconds
+[2023-12-03T23:42:29.979+0000] {processor.py:157} INFO - Started process (PID=6032) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:42:29.980+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:42:29.981+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:42:29.981+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:42:29.990+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:42:30.010+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:42:30.009+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:42:30.032+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:42:30.032+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:42:30.031953+00:00, run_after=2023-12-03T23:42:30.031953+00:00
+[2023-12-03T23:42:30.057+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.082 seconds
+[2023-12-03T23:43:14.691+0000] {processor.py:157} INFO - Started process (PID=6082) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:43:14.692+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:43:14.693+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:43:14.693+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:43:14.701+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:43:14.721+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:43:14.721+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:43:14.742+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:43:14.742+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:43:14.742391+00:00, run_after=2023-12-03T23:43:14.742391+00:00
+[2023-12-03T23:43:14.766+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2023-12-03T23:44:04.267+0000] {processor.py:157} INFO - Started process (PID=6383) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:44:04.268+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:44:04.269+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:44:04.269+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:44:04.278+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:44:04.296+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:44:04.296+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:44:04.318+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:44:04.318+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:44:04.318026+00:00, run_after=2023-12-03T23:44:04.318026+00:00
+[2023-12-03T23:44:04.340+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-12-03T23:44:47.181+0000] {processor.py:157} INFO - Started process (PID=6595) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:44:47.183+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:44:47.184+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:44:47.183+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:44:47.192+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:44:47.211+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:44:47.211+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:44:47.232+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:44:47.232+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:44:47.231780+00:00, run_after=2023-12-03T23:44:47.231780+00:00
+[2023-12-03T23:44:47.254+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2023-12-03T23:45:30.317+0000] {processor.py:157} INFO - Started process (PID=6643) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:45:30.318+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:45:30.319+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:45:30.319+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:45:30.327+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:45:30.346+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:45:30.346+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:45:30.367+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:45:30.366+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:45:30.366594+00:00, run_after=2023-12-03T23:45:30.366594+00:00
+[2023-12-03T23:45:30.390+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-12-03T23:46:13.599+0000] {processor.py:157} INFO - Started process (PID=6692) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:46:13.600+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:46:13.601+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:46:13.601+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:46:13.610+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:46:13.629+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:46:13.628+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:46:13.650+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:46:13.650+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:46:13.649821+00:00, run_after=2023-12-03T23:46:13.649821+00:00
+[2023-12-03T23:46:13.673+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2023-12-03T23:46:45.755+0000] {processor.py:157} INFO - Started process (PID=6728) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:46:45.757+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:46:45.758+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:46:45.757+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:46:45.766+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:46:45.785+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:46:45.784+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:46:45.806+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:46:45.806+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:46:45.805759+00:00, run_after=2023-12-03T23:46:45.805759+00:00
+[2023-12-03T23:46:45.830+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2023-12-03T23:47:33.443+0000] {processor.py:157} INFO - Started process (PID=6784) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:47:33.445+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:47:33.446+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:47:33.445+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:47:33.454+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:47:33.474+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:47:33.474+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:47:33.495+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:47:33.495+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:47:33.495256+00:00, run_after=2023-12-03T23:47:33.495256+00:00
+[2023-12-03T23:47:33.519+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.080 seconds
+[2023-12-03T23:48:09.581+0000] {processor.py:157} INFO - Started process (PID=6853) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:48:09.582+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:48:09.583+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:48:09.582+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:48:09.591+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:48:09.611+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:48:09.611+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:48:09.633+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:48:09.633+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:48:09.633112+00:00, run_after=2023-12-03T23:48:09.633112+00:00
+[2023-12-03T23:48:09.659+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.082 seconds
+[2023-12-03T23:48:58.226+0000] {processor.py:157} INFO - Started process (PID=6910) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:48:58.227+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:48:58.228+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:48:58.228+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:48:58.237+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:48:58.256+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:48:58.255+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:48:58.277+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:48:58.276+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:48:58.276547+00:00, run_after=2023-12-03T23:48:58.276547+00:00
+[2023-12-03T23:48:58.299+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-12-03T23:49:48.803+0000] {processor.py:157} INFO - Started process (PID=6963) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:49:48.805+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:49:48.806+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:49:48.805+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:49:48.814+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:49:48.833+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:49:48.833+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:49:48.854+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:49:48.854+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:49:48.853852+00:00, run_after=2023-12-03T23:49:48.853852+00:00
+[2023-12-03T23:49:48.876+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-12-03T23:50:35.385+0000] {processor.py:157} INFO - Started process (PID=7016) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:50:35.386+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:50:35.387+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:50:35.387+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:50:35.395+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:50:35.414+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:50:35.414+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:50:35.436+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:50:35.435+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:50:35.435723+00:00, run_after=2023-12-03T23:50:35.435723+00:00
+[2023-12-03T23:50:35.458+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-12-03T23:51:21.227+0000] {processor.py:157} INFO - Started process (PID=7068) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:51:21.228+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:51:21.229+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:51:21.229+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:51:21.238+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:51:21.258+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:51:21.257+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:51:21.279+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:51:21.279+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:51:21.279108+00:00, run_after=2023-12-03T23:51:21.279108+00:00
+[2023-12-03T23:51:21.302+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.079 seconds
+[2023-12-03T23:52:12.187+0000] {processor.py:157} INFO - Started process (PID=7123) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:52:12.188+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:52:12.189+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:52:12.189+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:52:12.197+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:52:12.217+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:52:12.216+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:52:12.237+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:52:12.237+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:52:12.237433+00:00, run_after=2023-12-03T23:52:12.237433+00:00
+[2023-12-03T23:52:12.260+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-12-03T23:53:00.614+0000] {processor.py:157} INFO - Started process (PID=7175) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:53:00.615+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:53:00.616+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:53:00.616+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:53:00.624+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:53:00.643+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:53:00.643+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:53:00.664+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:53:00.664+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:53:00.664331+00:00, run_after=2023-12-03T23:53:00.664331+00:00
+[2023-12-03T23:53:00.688+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2023-12-03T23:53:35.785+0000] {processor.py:157} INFO - Started process (PID=7213) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:53:35.787+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:53:35.788+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:53:35.787+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:53:35.796+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:53:35.816+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:53:35.816+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:53:35.837+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:53:35.837+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:53:35.837266+00:00, run_after=2023-12-03T23:53:35.837266+00:00
+[2023-12-03T23:53:35.860+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.079 seconds
+[2023-12-03T23:54:22.369+0000] {processor.py:157} INFO - Started process (PID=7267) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:54:22.370+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:54:22.371+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:54:22.371+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:54:22.380+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:54:22.399+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:54:22.399+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:54:22.421+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:54:22.421+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:54:22.420723+00:00, run_after=2023-12-03T23:54:22.420723+00:00
+[2023-12-03T23:54:22.446+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.081 seconds
+[2023-12-03T23:55:10.628+0000] {processor.py:157} INFO - Started process (PID=7319) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:55:10.630+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:55:10.631+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:55:10.630+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:55:10.639+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:55:10.659+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:55:10.659+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:55:10.681+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:55:10.680+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:55:10.680542+00:00, run_after=2023-12-03T23:55:10.680542+00:00
+[2023-12-03T23:55:10.703+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.079 seconds
+[2023-12-03T23:55:57.412+0000] {processor.py:157} INFO - Started process (PID=7372) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:55:57.414+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:55:57.415+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:55:57.415+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:55:57.423+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:55:57.442+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:55:57.442+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:55:57.463+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:55:57.462+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:55:57.462545+00:00, run_after=2023-12-03T23:55:57.462545+00:00
+[2023-12-03T23:55:57.486+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-12-03T23:56:48.379+0000] {processor.py:157} INFO - Started process (PID=7426) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:56:48.380+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:56:48.381+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:56:48.381+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:56:48.390+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:56:48.409+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:56:48.409+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:56:48.430+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:56:48.430+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:56:48.430352+00:00, run_after=2023-12-03T23:56:48.430352+00:00
+[2023-12-03T23:56:48.456+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.081 seconds
+[2023-12-03T23:57:33.733+0000] {processor.py:157} INFO - Started process (PID=7479) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:57:33.735+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:57:33.736+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:57:33.735+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:57:33.744+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:57:33.763+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:57:33.763+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:57:33.785+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:57:33.785+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:57:33.785152+00:00, run_after=2023-12-03T23:57:33.785152+00:00
+[2023-12-03T23:57:33.808+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2023-12-03T23:58:16.695+0000] {processor.py:157} INFO - Started process (PID=7527) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:58:16.696+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:58:16.697+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:58:16.696+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:58:16.705+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:58:16.724+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:58:16.724+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:58:16.745+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:58:16.745+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:58:16.745142+00:00, run_after=2023-12-03T23:58:16.745142+00:00
+[2023-12-03T23:58:16.768+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-12-03T23:59:03.990+0000] {processor.py:157} INFO - Started process (PID=7580) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:59:03.992+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:59:03.992+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:59:03.992+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:59:04.001+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:59:04.019+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:59:04.019+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:59:04.041+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:59:04.041+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:59:04.040931+00:00, run_after=2023-12-03T23:59:04.040931+00:00
+[2023-12-03T23:59:04.064+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2023-12-03T23:59:50.378+0000] {processor.py:157} INFO - Started process (PID=7632) to work on /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:59:50.380+0000] {processor.py:829} INFO - Processing file /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-03T23:59:50.381+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:59:50.380+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:59:50.389+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-03T23:59:50.409+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:59:50.409+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-03T23:59:50.433+0000] {logging_mixin.py:154} INFO - [2023-12-03T23:59:50.433+0000] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-02T23:59:50.432696+00:00, run_after=2023-12-03T23:59:50.432696+00:00
+[2023-12-03T23:59:50.457+0000] {processor.py:179} INFO - Processing /home/ubuntu/redfin/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.083 seconds
